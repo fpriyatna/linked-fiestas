@@ -1,0 +1,1590 @@
+<https://fiestas.net/salou/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/salou/> <http://schema.org/location> "Salou"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/salou/> <http://schema.org/name> "Fiesta Mayor de Invierno 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/las-palmas-gran-canaria/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/las-palmas-gran-canaria/> <http://schema.org/location> "Las Palmas de Gran Canaria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/las-palmas-gran-canaria/> <http://schema.org/name> "Carnaval 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vinaros/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/vinaros/> <http://schema.org/location> "VinarÃ³s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vinaros/> <http://schema.org/name> "Carnaval 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcoy/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/alcoy/> <http://schema.org/location> "Alcoy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcoy/> <http://schema.org/name> "ProcesiÃ³n del Jesuset del Miracle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/verin/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/verin/> <http://schema.org/location> "VerÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/verin/> <http://schema.org/name> "Entroido 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arbancon/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/arbancon/> <http://schema.org/location> "ArbancÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arbancon/> <http://schema.org/name> "Fiestas de la Candelas 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarragona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tarragona/> <http://schema.org/location> "Tarragona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarragona/> <http://schema.org/name> "Carnaval 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/molins-rei/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/molins-rei/> <http://schema.org/location> "Molins de Rei"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/molins-rei/> <http://schema.org/name> "Feria de la Candelaria 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/dos-torres/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/dos-torres/> <http://schema.org/location> "Dos Torres"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/dos-torres/> <http://schema.org/name> "La Candelaria 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almendralejo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almendralejo/> <http://schema.org/location> "Almendralejo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almendralejo/> <http://schema.org/name> "Las Candelas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bocairente/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bocairente/> <http://schema.org/location> "Bocairente"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bocairente/> <http://schema.org/name> "Moros y Cristianos a San Blas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cogolludo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cogolludo/> <http://schema.org/location> "Cogolludo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cogolludo/> <http://schema.org/name> "Santa Ã�gueda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-esteban-valle/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-esteban-valle/> <http://schema.org/location> "San Esteban del Valle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-esteban-valle/> <http://schema.org/name> "El Vitor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cadiz/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cadiz/> <http://schema.org/location> "CÃ¡diz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cadiz/> <http://schema.org/name> "Carnaval de CÃ¡diz 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tafalla/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tafalla/> <http://schema.org/location> "Tafalla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tafalla/> <http://schema.org/name> "Ferias de Febrero"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ciudad-rodrigo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ciudad-rodrigo/> <http://schema.org/location> "Ciudad Rodrigo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ciudad-rodrigo/> <http://schema.org/name> "Carnaval del Toro 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santa-cruz-tenerife/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/santa-cruz-tenerife/> <http://schema.org/location> "Santa Cruz de Tenerife"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santa-cruz-tenerife/> <http://schema.org/name> "Carnaval 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarazona-la-mancha/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tarazona-la-mancha/> <http://schema.org/location> "Tarazona de la Mancha"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarazona-la-mancha/> <http://schema.org/name> "Carnaval 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/barcelona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/barcelona/> <http://schema.org/location> "Barcelona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/barcelona/> <http://schema.org/name> "Santa Eulalia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aguilas/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/aguilas/> <http://schema.org/location> "Ã�guilas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aguilas/> <http://schema.org/name> "Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/badajoz/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/badajoz/> <http://schema.org/location> "Badajoz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/badajoz/> <http://schema.org/name> "Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/xinzo-limia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/xinzo-limia/> <http://schema.org/location> "Xinzo de Limia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/xinzo-limia/> <http://schema.org/name> "Entroido"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/balsareny/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/balsareny/> <http://schema.org/location> "Balsareny"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/balsareny/> <http://schema.org/name> "Fiesta de los Arrieros 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caceres/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/caceres/> <http://schema.org/location> "CÃ¡ceres"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caceres/> <http://schema.org/name> "Las Candelas y RomerÃ­a de San BlÃ¡s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/colmenar-viejo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/colmenar-viejo/> <http://schema.org/location> "Colmenar Viejo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/colmenar-viejo/> <http://schema.org/name> "La Vaquilla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ametlla-mar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ametlla-mar/> <http://schema.org/location> "La Ametlla de Mar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ametlla-mar/> <http://schema.org/name> "Virgen de la Candelaria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tolosa/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tolosa/> <http://schema.org/location> "Tolosa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tolosa/> <http://schema.org/name> "Carnaval 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/montehermoso/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/montehermoso/> <http://schema.org/location> "Montehermoso"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/montehermoso/> <http://schema.org/name> "Los Negritos de San Blas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valdemorillo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valdemorillo/> <http://schema.org/location> "Valdemorillo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valdemorillo/> <http://schema.org/name> "San Blas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lalin/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lalin/> <http://schema.org/location> "LalÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lalin/> <http://schema.org/name> "Feira do Cocido 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bocairente/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bocairente/> <http://schema.org/location> "Bocairente"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bocairente/> <http://schema.org/name> "Moros y Cristianos a San Blas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cogolludo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cogolludo/> <http://schema.org/location> "Cogolludo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cogolludo/> <http://schema.org/name> "Santa Ã�gueda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/salou/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/salou/> <http://schema.org/location> "Salou"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/salou/> <http://schema.org/name> "Fiesta Mayor de Invierno 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/las-palmas-gran-canaria/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/las-palmas-gran-canaria/> <http://schema.org/location> "Las Palmas de Gran Canaria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/las-palmas-gran-canaria/> <http://schema.org/name> "Carnaval 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vinaros/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/vinaros/> <http://schema.org/location> "VinarÃ³s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vinaros/> <http://schema.org/name> "Carnaval 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcoy/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/alcoy/> <http://schema.org/location> "Alcoy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcoy/> <http://schema.org/name> "ProcesiÃ³n del Jesuset del Miracle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/verin/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/verin/> <http://schema.org/location> "VerÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/verin/> <http://schema.org/name> "Entroido 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arbancon/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/arbancon/> <http://schema.org/location> "ArbancÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arbancon/> <http://schema.org/name> "Fiestas de la Candelas 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarragona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tarragona/> <http://schema.org/location> "Tarragona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarragona/> <http://schema.org/name> "Carnaval 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/molins-rei/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/molins-rei/> <http://schema.org/location> "Molins de Rei"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/molins-rei/> <http://schema.org/name> "Feria de la Candelaria 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/dos-torres/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/dos-torres/> <http://schema.org/location> "Dos Torres"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/dos-torres/> <http://schema.org/name> "La Candelaria 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almendralejo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almendralejo/> <http://schema.org/location> "Almendralejo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almendralejo/> <http://schema.org/name> "Las Candelas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/balsareny/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/balsareny/> <http://schema.org/location> "Balsareny"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/balsareny/> <http://schema.org/name> "Fiesta de los Arrieros 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caceres/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/caceres/> <http://schema.org/location> "CÃ¡ceres"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caceres/> <http://schema.org/name> "Las Candelas y RomerÃ­a de San BlÃ¡s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/colmenar-viejo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/colmenar-viejo/> <http://schema.org/location> "Colmenar Viejo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/colmenar-viejo/> <http://schema.org/name> "La Vaquilla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ametlla-mar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ametlla-mar/> <http://schema.org/location> "La Ametlla de Mar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ametlla-mar/> <http://schema.org/name> "Virgen de la Candelaria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tolosa/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tolosa/> <http://schema.org/location> "Tolosa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tolosa/> <http://schema.org/name> "Carnaval 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/montehermoso/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/montehermoso/> <http://schema.org/location> "Montehermoso"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/montehermoso/> <http://schema.org/name> "Los Negritos de San Blas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valdemorillo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valdemorillo/> <http://schema.org/location> "Valdemorillo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valdemorillo/> <http://schema.org/name> "San Blas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lalin/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lalin/> <http://schema.org/location> "LalÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lalin/> <http://schema.org/name> "Feira do Cocido 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bocairente/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bocairente/> <http://schema.org/location> "Bocairente"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bocairente/> <http://schema.org/name> "Moros y Cristianos a San Blas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cogolludo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cogolludo/> <http://schema.org/location> "Cogolludo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cogolludo/> <http://schema.org/name> "Santa Ã�gueda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-esteban-valle/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-esteban-valle/> <http://schema.org/location> "San Esteban del Valle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-esteban-valle/> <http://schema.org/name> "El Vitor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cadiz/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cadiz/> <http://schema.org/location> "CÃ¡diz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cadiz/> <http://schema.org/name> "Carnaval de CÃ¡diz 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tafalla/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tafalla/> <http://schema.org/location> "Tafalla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tafalla/> <http://schema.org/name> "Ferias de Febrero"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ciudad-rodrigo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ciudad-rodrigo/> <http://schema.org/location> "Ciudad Rodrigo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ciudad-rodrigo/> <http://schema.org/name> "Carnaval del Toro 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santa-cruz-tenerife/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/santa-cruz-tenerife/> <http://schema.org/location> "Santa Cruz de Tenerife"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santa-cruz-tenerife/> <http://schema.org/name> "Carnaval 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarazona-la-mancha/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tarazona-la-mancha/> <http://schema.org/location> "Tarazona de la Mancha"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarazona-la-mancha/> <http://schema.org/name> "Carnaval 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/barcelona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/barcelona/> <http://schema.org/location> "Barcelona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/barcelona/> <http://schema.org/name> "Santa Eulalia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aguilas/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/aguilas/> <http://schema.org/location> "Ã�guilas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aguilas/> <http://schema.org/name> "Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/badajoz/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/badajoz/> <http://schema.org/location> "Badajoz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/badajoz/> <http://schema.org/name> "Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/xinzo-limia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/xinzo-limia/> <http://schema.org/location> "Xinzo de Limia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/xinzo-limia/> <http://schema.org/name> "Entroido"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aviles/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/aviles/> <http://schema.org/location> "AvilÃ©s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aviles/> <http://schema.org/name> "Antroxu"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ciudad-real/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ciudad-real/> <http://schema.org/location> "Ciudad Real"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ciudad-real/> <http://schema.org/name> "Carnavales"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cordoba/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cordoba/> <http://schema.org/location> "CÃ³rdoba"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cordoba/> <http://schema.org/name> "Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuenlabrada/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/fuenlabrada/> <http://schema.org/location> "Fuenlabrada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuenlabrada/> <http://schema.org/name> "Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuentes-andalucia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/fuentes-andalucia/> <http://schema.org/location> "Fuentes de AndalucÃ­a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuentes-andalucia/> <http://schema.org/name> "Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/gijon/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/gijon/> <http://schema.org/location> "GijÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/gijon/> <http://schema.org/name> "Antroxu"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/herencia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/herencia/> <http://schema.org/location> "Herencia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/herencia/> <http://schema.org/name> "Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/miguelturra/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/miguelturra/> <http://schema.org/location> "Miguelturra"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/miguelturra/> <http://schema.org/name> "Carnaval Churriego"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/navalmoral-la-mata/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/navalmoral-la-mata/> <http://schema.org/location> "Navalmoral de la Mata"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/navalmoral-la-mata/> <http://schema.org/name> "Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pego/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/pego/> <http://schema.org/location> "Pego"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pego/> <http://schema.org/name> "Carnestoltes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/santona/> <http://schema.org/location> "SantoÃ±a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santona/> <http://schema.org/name> "Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vedra/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/vedra/> <http://schema.org/location> "Vedra"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vedra/> <http://schema.org/name> "Entroido da Ulla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/viana-do-bolo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/viana-do-bolo/> <http://schema.org/location> "Viana do Bolo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/viana-do-bolo/> <http://schema.org/name> "Entroido"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villanueva-geltru/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/villanueva-geltru/> <http://schema.org/location> "Villanueva y GeltrÃº"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villanueva-geltru/> <http://schema.org/name> "Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villarrobledo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/villarrobledo/> <http://schema.org/location> "Villarrobledo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villarrobledo/> <http://schema.org/name> "Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bornos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bornos/> <http://schema.org/location> "Bornos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bornos/> <http://schema.org/name> "Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/teruel/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/teruel/> <http://schema.org/location> "Teruel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/teruel/> <http://schema.org/name> "Bodas de Isabel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/boqueijon/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/boqueijon/> <http://schema.org/location> "BoqueixÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/boqueijon/> <http://schema.org/name> "Festa da Filloa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuentepelayo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/fuentepelayo/> <http://schema.org/location> "Fuentepelayo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuentepelayo/> <http://schema.org/name> "Feria del Angel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arzua/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/arzua/> <http://schema.org/location> "ArzÃºa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arzua/> <http://schema.org/name> "Festa do Queixo 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bayona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bayona/> <http://schema.org/location> "Baiona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bayona/> <http://schema.org/name> "Festa da Arribada 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/zaragoza/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/zaragoza/> <http://schema.org/location> "Zaragoza"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/zaragoza/> <http://schema.org/name> "Cincomarzada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/castellon-plana/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/castellon-plana/> <http://schema.org/location> "CastellÃ³n de la Plana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/castellon-plana/> <http://schema.org/name> "Fiestas de la Magdalena"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valencia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valencia/> <http://schema.org/location> "Valencia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valencia/> <http://schema.org/name> "Las Fallas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fitero/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/fitero/> <http://schema.org/location> "Fitero"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fitero/> <http://schema.org/name> "San Raimundo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ferrol/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ferrol/> <http://schema.org/location> "Ferrol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ferrol/> <http://schema.org/name> "Noite das Pepitas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/benicarlo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/benicarlo/> <http://schema.org/location> "BenicarlÃ³"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/benicarlo/> <http://schema.org/name> "Fallas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cullera/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cullera/> <http://schema.org/location> "Cullera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cullera/> <http://schema.org/name> "Fallas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/denia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/denia/> <http://schema.org/location> "DÃ©nia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/denia/> <http://schema.org/name> "Fallas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mancha-real/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/mancha-real/> <http://schema.org/location> "Mancha Real"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mancha-real/> <http://schema.org/name> "San JosÃ©"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/salceda-caselas/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/salceda-caselas/> <http://schema.org/location> "Salceda de Caselas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/salceda-caselas/> <http://schema.org/name> "Festa do XabarÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cabezuela-valle/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cabezuela-valle/> <http://schema.org/location> "Cabezuela del Valle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cabezuela-valle/> <http://schema.org/name> "Cerezo en Flor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/toledo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/toledo/> <http://schema.org/location> "Toledo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/toledo/> <http://schema.org/name> "Semana Santa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/talavera-la-reina/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/talavera-la-reina/> <http://schema.org/location> "Talavera de la Reina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/talavera-la-reina/> <http://schema.org/name> "Mondas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/rebollar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/rebollar/> <http://schema.org/location> "Rebollar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/rebollar/> <http://schema.org/name> "Cerezo en Flor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cacabelos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cacabelos/> <http://schema.org/location> "Cacabelos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cacabelos/> <http://schema.org/name> "Fiesta de Pascua"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arcade/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/arcade/> <http://schema.org/location> "Arcade"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arcade/> <http://schema.org/name> "Festa da Ostra"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/calanda/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/calanda/> <http://schema.org/location> "Calanda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/calanda/> <http://schema.org/name> "Semana Santa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mairena-del-alcor/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/mairena-del-alcor/> <http://schema.org/location> "Mairena del Alcor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mairena-del-alcor/> <http://schema.org/name> "Feria de Abril 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-vicente-la-sonsierra/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-vicente-la-sonsierra/> <http://schema.org/location> "San Vicente de la Sonsierra"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-vicente-la-sonsierra/> <http://schema.org/name> "Los Picaos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/benavente/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/benavente/> <http://schema.org/location> "Benavente"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/benavente/> <http://schema.org/name> "Fiestas de la Veguilla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/padron/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/padron/> <http://schema.org/location> "PadrÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/padron/> <http://schema.org/name> "Pascua"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/piornal/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/piornal/> <http://schema.org/location> "Piornal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/piornal/> <http://schema.org/name> "Cerezo en Flor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/murcia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/murcia/> <http://schema.org/location> "Murcia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/murcia/> <http://schema.org/name> "Bando de la Huerta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/altura/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/altura/> <http://schema.org/location> "Altura"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/altura/> <http://schema.org/name> "RomerÃ­a a la Cueva Santa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tuy/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tuy/> <http://schema.org/location> "Tui"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tuy/> <http://schema.org/name> "San Telmo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/palencia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/palencia/> <http://schema.org/location> "Palencia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/palencia/> <http://schema.org/name> "RomerÃ­a de Santo Toribio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-vicente-raspeig/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-vicente-raspeig/> <http://schema.org/location> "San Vicente del Raspeig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-vicente-raspeig/> <http://schema.org/name> "San Vicente"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ciudad-rodrigo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ciudad-rodrigo/> <http://schema.org/location> "Ciudad Rodrigo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ciudad-rodrigo/> <http://schema.org/name> "Fiesta de La Charrada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cullera/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cullera/> <http://schema.org/location> "Cullera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cullera/> <http://schema.org/name> "Fiestas de Cullera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sevilla/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/sevilla/> <http://schema.org/location> "Sevilla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sevilla/> <http://schema.org/name> "Feria de Abril"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tauste/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tauste/> <http://schema.org/location> "Tauste"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tauste/> <http://schema.org/name> "Virgen de Sancho Abarca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/andujar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/andujar/> <http://schema.org/location> "AndÃºjar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/andujar/> <http://schema.org/name> "RomerÃ­a Virgen de la Cabeza 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcoy/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/alcoy/> <http://schema.org/location> "Alcoy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcoy/> <http://schema.org/name> "Moros y Cristianos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/beas-segura/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/beas-segura/> <http://schema.org/location> "Beas de Segura"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/beas-segura/> <http://schema.org/name> "San Marcos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caceres/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/caceres/> <http://schema.org/location> "CÃ¡ceres"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caceres/> <http://schema.org/name> "San Jorge"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/baneres-mariola/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/baneres-mariola/> <http://schema.org/location> "BaÃ±eres de Mariola"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/baneres-mariola/> <http://schema.org/name> "Moros y Cristianos en Honor a San Jorge"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cartama/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cartama/> <http://schema.org/location> "CÃ¡rtama"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cartama/> <http://schema.org/name> "Feria de Abril"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fraga/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/fraga/> <http://schema.org/location> "Fraga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fraga/> <http://schema.org/name> "DÃ­a de la Faldeta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/huesca/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/huesca/> <http://schema.org/location> "Huesca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/huesca/> <http://schema.org/name> "San Jorge"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mora/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/mora/> <http://schema.org/location> "Mora"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mora/> <http://schema.org/name> "Fiesta del Olivo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pamplona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/pamplona/> <http://schema.org/location> "Pamplona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pamplona/> <http://schema.org/name> "San Marcos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arbo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/arbo/> <http://schema.org/location> "Arbo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arbo/> <http://schema.org/name> "Festa da Lamprea 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuente-cantos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/fuente-cantos/> <http://schema.org/location> "Fuente de Cantos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuente-cantos/> <http://schema.org/name> "Fiesta de la Chanfaina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ribadavia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ribadavia/> <http://schema.org/location> "Ribadavia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ribadavia/> <http://schema.org/name> "Feira do ViÃ±o do Ribeiro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almansa/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almansa/> <http://schema.org/location> "Almansa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almansa/> <http://schema.org/name> "Nuestra SeÃ±ora de BelÃ©n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/dos-hermanas/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/dos-hermanas/> <http://schema.org/location> "Dos Hermanas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/dos-hermanas/> <http://schema.org/name> "Feria de Dos Hermanas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/el-molar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/el-molar/> <http://schema.org/location> "El Molar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/el-molar/> <http://schema.org/name> "Fiesta de la Maya"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/colmenar-viejo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/colmenar-viejo/> <http://schema.org/location> "Colmenar Viejo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/colmenar-viejo/> <http://schema.org/name> "La Maya"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caravaca-la-cruz/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/caravaca-la-cruz/> <http://schema.org/location> "Caravaca de la Cruz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caravaca-la-cruz/> <http://schema.org/name> "SantÃ­sima y Vera Cruz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jaca/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/jaca/> <http://schema.org/location> "Jaca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jaca/> <http://schema.org/name> "Primer Viernes de Mayo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/abanilla/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/abanilla/> <http://schema.org/location> "Abanilla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/abanilla/> <http://schema.org/name> "Santa Cruz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alhama-murcia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/alhama-murcia/> <http://schema.org/location> "Alhama de Murcia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alhama-murcia/> <http://schema.org/name> "Los Mayos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almonaster-la-real/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almonaster-la-real/> <http://schema.org/location> "Almonaster la Real"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almonaster-la-real/> <http://schema.org/name> "Cruces de Mayo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/anora/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/anora/> <http://schema.org/location> "AÃ±ora"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/anora/> <http://schema.org/name> "Fiesta de La Cruz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bonares/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bonares/> <http://schema.org/location> "Bonares"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bonares/> <http://schema.org/name> "Cruces de los Cuatro Esquinas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/borja/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/borja/> <http://schema.org/location> "Borja"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/borja/> <http://schema.org/name> "Fiestas de Mayo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/colmenar-oreja/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/colmenar-oreja/> <http://schema.org/location> "Colmenar de Oreja"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/colmenar-oreja/> <http://schema.org/name> "Fiestas del Cristo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/feria/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/feria/> <http://schema.org/location> "Feria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/feria/> <http://schema.org/name> "Fiesta de la Santa Cruz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/figueras/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/figueras/> <http://schema.org/location> "Figueras"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/figueras/> <http://schema.org/name> "Ferias y Fiestas de la Santa Cruz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/granada/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/granada/> <http://schema.org/location> "Granada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/granada/> <http://schema.org/name> "Cruz de Mayo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/realejos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/realejos/> <http://schema.org/location> "Los Realejos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/realejos/> <http://schema.org/name> "Fiesta de la Cruz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ourense/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ourense/> <http://schema.org/location> "Ourense"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ourense/> <http://schema.org/name> "Os Maios"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/priego-cordoba/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/priego-cordoba/> <http://schema.org/location> "Priego de CÃ³rdoba"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/priego-cordoba/> <http://schema.org/name> "Fiestas de Mayo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sineu/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/sineu/> <http://schema.org/location> "Sineu"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sineu/> <http://schema.org/name> "Ferias de Primavera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villacanas/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/villacanas/> <http://schema.org/location> "VillacaÃ±as"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villacanas/> <http://schema.org/name> "Cristo de la Viga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lucena/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lucena/> <http://schema.org/location> "Lucena"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lucena/> <http://schema.org/name> "Fiestas Aracelitanas 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/orduna/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/orduna/> <http://schema.org/location> "OrduÃ±a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/orduna/> <http://schema.org/name> "Otxomaio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santo-domingo-la-calzada/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/santo-domingo-la-calzada/> <http://schema.org/location> "Santo Domingo de la Calzada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santo-domingo-la-calzada/> <http://schema.org/name> "Fiestas del Santo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santiago-compostela/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/santiago-compostela/> <http://schema.org/location> "Santiago de Compostela"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santiago-compostela/> <http://schema.org/name> "A AscensiÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jerez-la-frontera/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/jerez-la-frontera/> <http://schema.org/location> "Jerez de la Frontera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jerez-la-frontera/> <http://schema.org/name> "Feria del Caballo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/oviedo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/oviedo/> <http://schema.org/location> "Oviedo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/oviedo/> <http://schema.org/name> "Feria de la AscensiÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/redondela/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/redondela/> <http://schema.org/location> "Redondela"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/redondela/> <http://schema.org/name> "Festa do Choco"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lerida/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lerida/> <http://schema.org/location> "LÃ©rida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lerida/> <http://schema.org/name> "San Anastasio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/badalona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/badalona/> <http://schema.org/location> "Badalona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/badalona/> <http://schema.org/name> "San Anastasio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/la-carolina/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/la-carolina/> <http://schema.org/location> "La Carolina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/la-carolina/> <http://schema.org/name> "Feria de Mayo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valladolid/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valladolid/> <http://schema.org/location> "Valladolid"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valladolid/> <http://schema.org/name> "San Pedro Regalado"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almonte/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almonte/> <http://schema.org/location> "Almonte"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almonte/> <http://schema.org/name> "El Rocio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/madrid/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/madrid/> <http://schema.org/location> "Madrid"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/madrid/> <http://schema.org/name> "Fiestas de San Isidro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/azuqueca-henares/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/azuqueca-henares/> <http://schema.org/location> "Azuqueca de Henares"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/azuqueca-henares/> <http://schema.org/name> "San Isidro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/boimorto/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/boimorto/> <http://schema.org/location> "Boimorto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/boimorto/> <http://schema.org/name> "San Isidro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/estepona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/estepona/> <http://schema.org/location> "Estepona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/estepona/> <http://schema.org/name> "San Isidro Labrador"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuente-cantos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/fuente-cantos/> <http://schema.org/location> "Fuente de Cantos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuente-cantos/> <http://schema.org/name> "San Isidro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/guadalajara/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/guadalajara/> <http://schema.org/location> "Guadalajara"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/guadalajara/> <http://schema.org/name> "Feria Chica"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valencia-alcantara/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valencia-alcantara/> <http://schema.org/location> "Valencia de AlcÃ¡ntara"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valencia-alcantara/> <http://schema.org/name> "San Isidro Labrador"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/yecla/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/yecla/> <http://schema.org/location> "Yecla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/yecla/> <http://schema.org/name> "San Isidro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almazan/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almazan/> <http://schema.org/location> "AlmazÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almazan/> <http://schema.org/name> "San Pascual BailÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/terrer/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/terrer/> <http://schema.org/location> "Terrer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/terrer/> <http://schema.org/name> "San Pascual BailÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villa-cruces/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/villa-cruces/> <http://schema.org/location> "Vila de Cruces"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villa-cruces/> <http://schema.org/name> "Festa do Galo de Curral"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/atienza/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/atienza/> <http://schema.org/location> "Atienza"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/atienza/> <http://schema.org/name> "La Caballada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/miranda-ebro/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/miranda-ebro/> <http://schema.org/location> "Miranda de Ebro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/miranda-ebro/> <http://schema.org/name> "San Juan del Monte"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/getafe/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/getafe/> <http://schema.org/location> "Getafe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/getafe/> <http://schema.org/name> "Fiestas de Getafe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almazora/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almazora/> <http://schema.org/location> "Almazora"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almazora/> <http://schema.org/name> "Santa Quiteria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bejar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bejar/> <http://schema.org/location> "BÃ©jar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bejar/> <http://schema.org/name> "Los Hombres de Musgo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cordoba/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cordoba/> <http://schema.org/location> "CÃ³rdoba"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cordoba/> <http://schema.org/name> "Feria de Mayo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/granada/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/granada/> <http://schema.org/location> "Granada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/granada/> <http://schema.org/name> "Corpus Christi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/toledo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/toledo/> <http://schema.org/location> "Toledo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/toledo/> <http://schema.org/name> "Corpus Christi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villa-mazo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/villa-mazo/> <http://schema.org/location> "Villa de Mazo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villa-mazo/> <http://schema.org/name> "Corpus Christi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/allariz/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/allariz/> <http://schema.org/location> "Allariz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/allariz/> <http://schema.org/name> "Festa do Boi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/benavente/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/benavente/> <http://schema.org/location> "Benavente"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/benavente/> <http://schema.org/name> "Fiestas del Toro Enmaromado"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/camunas/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/camunas/> <http://schema.org/location> "CamuÃ±as"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/camunas/> <http://schema.org/name> "Pecados y Danzantes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/daroca/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/daroca/> <http://schema.org/location> "Daroca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/daroca/> <http://schema.org/name> "Fiestas del Corpus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caceres/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/caceres/> <http://schema.org/location> "CÃ¡ceres"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caceres/> <http://schema.org/name> "Feria San Fernando"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/palencia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/palencia/> <http://schema.org/location> "Palencia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/palencia/> <http://schema.org/name> "Feria Chica"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/berga/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/berga/> <http://schema.org/location> "Berga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/berga/> <http://schema.org/name> "La Patum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cornella-llobregat/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cornella-llobregat/> <http://schema.org/location> "CornellÃ¡ de Llobregat"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cornella-llobregat/> <http://schema.org/name> "Corpus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lagartera/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lagartera/> <http://schema.org/location> "Lagartera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lagartera/> <http://schema.org/name> "Corpus Christi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/zahara/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/zahara/> <http://schema.org/location> "Zahara"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/zahara/> <http://schema.org/name> "Corpus Christi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/archidona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/archidona/> <http://schema.org/location> "Archidona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/archidona/> <http://schema.org/name> "Feria del Perro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/elda/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/elda/> <http://schema.org/location> "Elda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/elda/> <http://schema.org/name> "Moros y Cristianos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/riogordo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/riogordo/> <http://schema.org/location> "Riogordo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/riogordo/> <http://schema.org/name> "DÃ­a del Caracol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/antequera/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/antequera/> <http://schema.org/location> "Antequera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/antequera/> <http://schema.org/name> "Feria de Primavera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/laguna-negrillos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/laguna-negrillos/> <http://schema.org/location> "Laguna de Negrillos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/laguna-negrillos/> <http://schema.org/name> "Corpus Christi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ponteareas/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ponteareas/> <http://schema.org/location> "Ponteareas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ponteareas/> <http://schema.org/name> "O Corpus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cuart-poblet/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cuart-poblet/> <http://schema.org/location> "Cuart de Poblet"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cuart-poblet/> <http://schema.org/name> "San Onofre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/burgos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/burgos/> <http://schema.org/location> "Burgos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/burgos/> <http://schema.org/name> "Fiesta del Curpillos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/plasencia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/plasencia/> <http://schema.org/location> "Plasencia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/plasencia/> <http://schema.org/name> "Ferias"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/redondela/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/redondela/> <http://schema.org/location> "Redondela"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/redondela/> <http://schema.org/name> "Festa da Coca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/logrono/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/logrono/> <http://schema.org/location> "LogroÃ±o"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/logrono/> <http://schema.org/name> "Fiestas de San BernabÃ©"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/marbella/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/marbella/> <http://schema.org/location> "Marbella"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/marbella/> <http://schema.org/name> "Feria y Fiestas San BernabÃ©"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/algeciras/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/algeciras/> <http://schema.org/location> "Algeciras"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/algeciras/> <http://schema.org/name> "Feria Real"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/puebla-segur/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/puebla-segur/> <http://schema.org/location> "Puebla de Segur"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/puebla-segur/> <http://schema.org/name> "Fallas Virgen de la Ribera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alicante/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/alicante/> <http://schema.org/location> "Alicante"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alicante/> <http://schema.org/name> "Hogueras de San Juan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ourense/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ourense/> <http://schema.org/location> "Ourense"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ourense/> <http://schema.org/name> "Festas de Ourense"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/torrejon-ardoz/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/torrejon-ardoz/> <http://schema.org/location> "TorrejÃ³n de Ardoz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/torrejon-ardoz/> <http://schema.org/name> "Fiestas Populares"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/zamora/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/zamora/> <http://schema.org/location> "Zamora"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/zamora/> <http://schema.org/name> "Ferias y Fiestas de San Pedro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/carballo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/carballo/> <http://schema.org/location> "Carballo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/carballo/> <http://schema.org/name> "San XoÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/coruna/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/coruna/> <http://schema.org/location> "A CoruÃ±a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/coruna/> <http://schema.org/name> "San XoÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valladolid/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valladolid/> <http://schema.org/location> "Valladolid"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valladolid/> <http://schema.org/name> "Noche de San Juan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/badajoz/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/badajoz/> <http://schema.org/location> "Badajoz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/badajoz/> <http://schema.org/name> "Feria de San Juan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/coria/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/coria/> <http://schema.org/location> "Coria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/coria/> <http://schema.org/name> "San Juan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/las-palmas-gran-canaria/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/las-palmas-gran-canaria/> <http://schema.org/location> "Las Palmas de Gran Canaria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/las-palmas-gran-canaria/> <http://schema.org/name> "Fiestas Fundacionales"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/leon/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/leon/> <http://schema.org/location> "LeÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/leon/> <http://schema.org/name> "Fiestas de San Juan y San Pedro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/segovia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/segovia/> <http://schema.org/location> "Segovia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/segovia/> <http://schema.org/name> "Ferias y Fiestas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/soria/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/soria/> <http://schema.org/location> "Soria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/soria/> <http://schema.org/name> "San Juan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ejido/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ejido/> <http://schema.org/location> "El Ejido"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ejido/> <http://schema.org/name> "Fiestas de San Isidro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/frias/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/frias/> <http://schema.org/location> "FrÃ­as"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/frias/> <http://schema.org/name> "Fiestas del CapitÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lejona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lejona/> <http://schema.org/location> "Lejona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lejona/> <http://schema.org/name> "Fiestas de San Juan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mieres-asturias/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/mieres-asturias/> <http://schema.org/location> "Mieres (Asturias)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mieres-asturias/> <http://schema.org/name> "San Xuan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-pedro-manrique/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-pedro-manrique/> <http://schema.org/location> "San Pedro Manrique"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-pedro-manrique/> <http://schema.org/name> "San Juan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tolosa/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tolosa/> <http://schema.org/location> "Tolosa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tolosa/> <http://schema.org/name> "San Juan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valls/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valls/> <http://schema.org/location> "Valls"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valls/> <http://schema.org/name> "Fiesta Mayor de Valls"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vinaros/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/vinaros/> <http://schema.org/location> "VinarÃ³s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vinaros/> <http://schema.org/name> "Feria y Fiestas de San Juan y San Pedro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caspe/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/caspe/> <http://schema.org/location> "Caspe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caspe/> <http://schema.org/name> "Compromiso de Caspe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/castro-urdiales/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/castro-urdiales/> <http://schema.org/location> "Castro-Urdiales"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/castro-urdiales/> <http://schema.org/name> "San Pelayo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/burgos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/burgos/> <http://schema.org/location> "Burgos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/burgos/> <http://schema.org/name> "Fiestas de San Pedro y San Pablo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bergondo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bergondo/> <http://schema.org/location> "Bergondo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bergondo/> <http://schema.org/name> "Santa Marta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/boiro/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/boiro/> <http://schema.org/location> "Boiro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/boiro/> <http://schema.org/name> "Festas do VerÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cudillero/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cudillero/> <http://schema.org/location> "Cudillero"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cudillero/> <http://schema.org/name> "San Pedro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/grao/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/grao/> <http://schema.org/location> "El Grao"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/grao/> <http://schema.org/name> "Fiestas de San Pedro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/haro/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/haro/> <http://schema.org/location> "Haro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/haro/> <http://schema.org/name> "Batalla del Vino"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/irun/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/irun/> <http://schema.org/location> "IrÃºn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/irun/> <http://schema.org/name> "Fiestas de San Pedro y San Marcial"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/munguia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/munguia/> <http://schema.org/location> "MunguÃ­a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/munguia/> <http://schema.org/name> "San Pedro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/rubi/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/rubi/> <http://schema.org/location> "RubÃ­"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/rubi/> <http://schema.org/name> "Fiesta Mayor de RubÃ­"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sestao/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/sestao/> <http://schema.org/location> "Sestao"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sestao/> <http://schema.org/name> "San Pedro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valencia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valencia/> <http://schema.org/location> "Valencia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valencia/> <http://schema.org/name> "Feria de Julio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuentesauco/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/fuentesauco/> <http://schema.org/location> "FuentesaÃºco"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuentesauco/> <http://schema.org/name> "Fiestas de VisitaciÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/castro-urdiales/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/castro-urdiales/> <http://schema.org/location> "Castro-Urdiales"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/castro-urdiales/> <http://schema.org/name> "Coso Blanco"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sabucedo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/sabucedo/> <http://schema.org/location> "Sabucedo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sabucedo/> <http://schema.org/name> "A Rapa das Bestas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lena/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lena/> <http://schema.org/location> "Lena"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lena/> <http://schema.org/name> "Fiesta del Corderu"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/gines/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/gines/> <http://schema.org/location> "GinÃ©s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/gines/> <http://schema.org/name> "Feria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ramales-la-victoria/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ramales-la-victoria/> <http://schema.org/location> "Ramales de la Victoria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ramales-la-victoria/> <http://schema.org/name> "Verbena del MantÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pamplona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/pamplona/> <http://schema.org/location> "Pamplona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pamplona/> <http://schema.org/name> "Sanfermines"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/teruel/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/teruel/> <http://schema.org/location> "Teruel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/teruel/> <http://schema.org/name> "Fiestas del Ã�ngel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lesaca/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lesaca/> <http://schema.org/location> "Lesaca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lesaca/> <http://schema.org/name> "San FermÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/nava/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/nava/> <http://schema.org/location> "Nava"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/nava/> <http://schema.org/name> "Festival de la Sidra"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/munebrega/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/munebrega/> <http://schema.org/location> "MunÃ©brega"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/munebrega/> <http://schema.org/name> "San Cristobal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/barcenaciones/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/barcenaciones/> <http://schema.org/location> "Barcenaciones"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/barcenaciones/> <http://schema.org/name> "San Benito"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/moratalla/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/moratalla/> <http://schema.org/location> "Moratalla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/moratalla/> <http://schema.org/name> "Cristo del Rayo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/denia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/denia/> <http://schema.org/location> "DÃ©nia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/denia/> <http://schema.org/name> "Fiesta Mayor - Toros al Mar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santa-cruz-palma/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/santa-cruz-palma/> <http://schema.org/location> "Santa Cruz de la Palma"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santa-cruz-palma/> <http://schema.org/name> "Bajada de la Virgen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/manzanares/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/manzanares/> <http://schema.org/location> "Manzanares"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/manzanares/> <http://schema.org/name> "Feria y Fiestas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/muros/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/muros/> <http://schema.org/location> "Muros"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/muros/> <http://schema.org/name> "Las Carrilanas - Esteiro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sepulveda/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/sepulveda/> <http://schema.org/location> "SepÃºlveda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sepulveda/> <http://schema.org/name> "Fiestas de los Fueros"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/baracaldo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/baracaldo/> <http://schema.org/location> "Baracaldo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/baracaldo/> <http://schema.org/name> "Virgen del Carmen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/camarinas/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/camarinas/> <http://schema.org/location> "CamariÃ±as"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/camarinas/> <http://schema.org/name> "Virxe do Carme"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/molina-aragon/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/molina-aragon/> <http://schema.org/location> "Molina de AragÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/molina-aragon/> <http://schema.org/name> "Fiestas del Carmen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/rincon-victoria/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/rincon-victoria/> <http://schema.org/location> "Rincon de la Victoria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/rincon-victoria/> <http://schema.org/name> "Virgen del Carmen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-fernando/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-fernando/> <http://schema.org/location> "San Fernando"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-fernando/> <http://schema.org/name> "Feria del Carmen y de la Sal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santurce/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/santurce/> <http://schema.org/location> "Santurce"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santurce/> <http://schema.org/name> "Virgen del Carmen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bailen/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bailen/> <http://schema.org/location> "BailÃ©n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bailen/> <http://schema.org/name> "Batalla de BailÃ©n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/manises/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/manises/> <http://schema.org/location> "Manises"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/manises/> <http://schema.org/name> "Santas Justa y Rufina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/oliva/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/oliva/> <http://schema.org/location> "Oliva"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/oliva/> <http://schema.org/name> "Moros y Cristianos 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/avila/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/avila/> <http://schema.org/location> "Ã�vila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/avila/> <http://schema.org/name> "Fiestas de Verano"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/laracha/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/laracha/> <http://schema.org/location> "A Laracha"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/laracha/> <http://schema.org/name> "Santa Margarita"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ares/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ares/> <http://schema.org/location> "Ares"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ares/> <http://schema.org/name> "Festas do Mar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cabanillas-del-campo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cabanillas-del-campo/> <http://schema.org/location> "Cabanillas del Campo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cabanillas-del-campo/> <http://schema.org/name> "Fiestas Populares"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/llanes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/llanes/> <http://schema.org/location> "Llanes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/llanes/> <http://schema.org/name> "Santa MarÃ­a Magdalena"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/viana/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/viana/> <http://schema.org/location> "Viana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/viana/> <http://schema.org/name> "Santa MarÃ­a Magdalena"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/purchena/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/purchena/> <http://schema.org/location> "Purchena"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/purchena/> <http://schema.org/name> "Juegos Moriscos de Aben Humeya"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tortosa/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tortosa/> <http://schema.org/location> "Tortosa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tortosa/> <http://schema.org/name> "Fiesta del Renacimiento"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villajoyosa/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/villajoyosa/> <http://schema.org/location> "Villajoyosa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villajoyosa/> <http://schema.org/name> "Moros y Cristianos 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/riveira/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/riveira/> <http://schema.org/location> "Riveira"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/riveira/> <http://schema.org/name> "Festa da Dorna"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santander/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/santander/> <http://schema.org/location> "Santander"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santander/> <http://schema.org/name> "Semana Grande"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santiago-compostela/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/santiago-compostela/> <http://schema.org/location> "Santiago de Compostela"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santiago-compostela/> <http://schema.org/name> "ApÃ³stolo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcudia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/alcudia/> <http://schema.org/location> "Alcudia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcudia/> <http://schema.org/name> "Santiago"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cangas-onis/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cangas-onis/> <http://schema.org/location> "Cangas de OnÃ­s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cangas-onis/> <http://schema.org/name> "Fiesta del Pastor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/collado-villalba/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/collado-villalba/> <http://schema.org/location> "Collado Villalba"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/collado-villalba/> <http://schema.org/name> "Fiesta Mayor en honor a Santiago ApÃ³stol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mataro/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/mataro/> <http://schema.org/location> "MatarÃ³"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mataro/> <http://schema.org/name> "Las Santas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/totana/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/totana/> <http://schema.org/location> "Totana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/totana/> <http://schema.org/name> "Fiestas de Santiago"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villanueva-la-canada/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/villanueva-la-canada/> <http://schema.org/location> "Villanueva de la CaÃ±ada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villanueva-la-canada/> <http://schema.org/name> "Santiago ApÃ³stol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/blanes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/blanes/> <http://schema.org/location> "Blanes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/blanes/> <http://schema.org/name> "Santa Ana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/candelaria/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/candelaria/> <http://schema.org/location> "Candelaria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/candelaria/> <http://schema.org/name> "Santa Ana y Virgen del Carmen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/el-viso/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/el-viso/> <http://schema.org/location> "El Viso"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/el-viso/> <http://schema.org/name> "Santa Ana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ordizia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ordizia/> <http://schema.org/location> "Ordizia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ordizia/> <http://schema.org/name> "Santa Ana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/roquetas-mar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/roquetas-mar/> <http://schema.org/location> "Roquetas de Mar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/roquetas-mar/> <http://schema.org/name> "Santa Ana - Puerto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tudela/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tudela/> <http://schema.org/location> "Tudela"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tudela/> <http://schema.org/name> "Santa Ana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/escobedo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/escobedo/> <http://schema.org/location> "Escobedo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/escobedo/> <http://schema.org/name> "San PantaleÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valdes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valdes/> <http://schema.org/location> "ValdÃ©s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valdes/> <http://schema.org/name> "La Vaqueirada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/morana/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/morana/> <http://schema.org/location> "MoraÃ±a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/morana/> <http://schema.org/name> "Festa do Carneiro Ã³ Espeto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ciudad-real/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ciudad-real/> <http://schema.org/location> "Ciudad Real"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ciudad-real/> <http://schema.org/name> "La Pandorga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almoradi/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almoradi/> <http://schema.org/location> "AlmoradÃ­"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almoradi/> <http://schema.org/name> "Santos de la Piedra,San AbdÃ³n y SenÃ©n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/coruna/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/coruna/> <http://schema.org/location> "A CoruÃ±a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/coruna/> <http://schema.org/name> "Festas de Maria Pita"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vigo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/vigo/> <http://schema.org/location> "Vigo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vigo/> <http://schema.org/name> "Festas do Cristo da Victoria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/candas/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/candas/> <http://schema.org/location> "CandÃ¡s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/candas/> <http://schema.org/name> "San FÃ©lix y Festival de la Sardina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/canete/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/canete/> <http://schema.org/location> "CaÃ±ete"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/canete/> <http://schema.org/name> "La Alvarada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lerma/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lerma/> <http://schema.org/location> "Lerma"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lerma/> <http://schema.org/name> "Fiesta Barroca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cambados/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cambados/> <http://schema.org/location> "Cambados"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cambados/> <http://schema.org/name> "Festa do ViÃ±o AlvariÃ±o"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aguilar-campoo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/aguilar-campoo/> <http://schema.org/location> "Aguilar de Campoo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aguilar-campoo/> <http://schema.org/name> "Fiesta de la Paella Ollerense en Olleros de Pisuerga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/catoira/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/catoira/> <http://schema.org/location> "Catoira"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/catoira/> <http://schema.org/name> "RomarÃ­a Vikinga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/huelva/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/huelva/> <http://schema.org/location> "Huelva"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/huelva/> <http://schema.org/name> "Fiestas Colombinas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/agaete/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/agaete/> <http://schema.org/location> "Agaete"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/agaete/> <http://schema.org/name> "Fiesta de las Nieves - La Rama"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vitoria/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/vitoria/> <http://schema.org/location> "Vitoria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vitoria/> <http://schema.org/name> "Fiestas de la Virgen Blanca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/estella/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/estella/> <http://schema.org/location> "Estella"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/estella/> <http://schema.org/name> "Fiestas de Estella"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/oimbra/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/oimbra/> <http://schema.org/location> "OÃ­mbra"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/oimbra/> <http://schema.org/name> "Feira do Pemento"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/roda/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/roda/> <http://schema.org/location> "La Roda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/roda/> <http://schema.org/name> "El Salvador"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/centro/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/centro/> <http://schema.org/location> "Centro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/centro/> <http://schema.org/name> "San Cayetano, San Lorenzo y La Paloma"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/huesca/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/huesca/> <http://schema.org/location> "Huesca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/huesca/> <http://schema.org/name> "San Lorenzo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/elche/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/elche/> <http://schema.org/location> "Elche"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/elche/> <http://schema.org/name> "Virgen de la AsunciÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pontevedra/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/pontevedra/> <http://schema.org/location> "Pontevedra"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pontevedra/> <http://schema.org/name> "Festas da Peregrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cabezon-sal/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cabezon-sal/> <http://schema.org/location> "CabezÃ³n de la Sal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cabezon-sal/> <http://schema.org/name> "DÃ­a Regional de Cantabria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/betanzos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/betanzos/> <http://schema.org/location> "Betanzos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/betanzos/> <http://schema.org/name> "San Roque"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lepe/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lepe/> <http://schema.org/location> "Lepe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lepe/> <http://schema.org/name> "Virgen Bella y San Roque"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarragona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tarragona/> <http://schema.org/location> "Tarragona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarragona/> <http://schema.org/name> "San MagÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/carchelejo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/carchelejo/> <http://schema.org/location> "Carchelejo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/carchelejo/> <http://schema.org/name> "Virgen del Rosario y San Roque"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ciudad-real/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ciudad-real/> <http://schema.org/location> "Ciudad Real"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ciudad-real/> <http://schema.org/name> "Feria y Fiestas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jativa/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/jativa/> <http://schema.org/location> "JÃ¡tiva"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jativa/> <http://schema.org/name> "Feria de Agosto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-sebastian/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-sebastian/> <http://schema.org/location> "San SebastiÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-sebastian/> <http://schema.org/name> "Semana Grande"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/toledo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/toledo/> <http://schema.org/location> "Toledo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/toledo/> <http://schema.org/name> "Virgen del Sagrario"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/torrelavega/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/torrelavega/> <http://schema.org/location> "Torrelavega"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/torrelavega/> <http://schema.org/name> "Fiestas de la Virgen Grande"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alar-rey/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/alar-rey/> <http://schema.org/location> "Alar del Rey"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alar-rey/> <http://schema.org/name> "Descenso Internacional del Pisuerga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almunecar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almunecar/> <http://schema.org/location> "AlmuÃ±Ã©car"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almunecar/> <http://schema.org/name> "Virgen de la Antigua"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/amurrio/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/amurrio/> <http://schema.org/location> "Amurrio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/amurrio/> <http://schema.org/name> "Ntra. Sra. de la AsunciÃ³n y San Roque"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cedeira/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cedeira/> <http://schema.org/location> "Cedeira"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cedeira/> <http://schema.org/name> "Nuestra SeÃ±ora del Mar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/competa/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/competa/> <http://schema.org/location> "CÃ³mpeta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/competa/> <http://schema.org/name> "Noche del Vino"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/gijon/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/gijon/> <http://schema.org/location> "GijÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/gijon/> <http://schema.org/name> "Semana Grande"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jumilla/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/jumilla/> <http://schema.org/location> "Jumilla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jumilla/> <http://schema.org/name> "Feria y Fiestas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/la-alberca/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/la-alberca/> <http://schema.org/location> "La Alberca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/la-alberca/> <http://schema.org/name> "Virgen de la AsunciÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/laxe/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/laxe/> <http://schema.org/location> "Laxe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/laxe/> <http://schema.org/name> "Festas Patronais"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/leganes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/leganes/> <http://schema.org/location> "LeganÃ©s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/leganes/> <http://schema.org/name> "Nuestra SeÃ±ora de Butarque"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/llodio/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/llodio/> <http://schema.org/location> "Llodio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/llodio/> <http://schema.org/name> "Fiestas de Llodio 2018"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/motril/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/motril/> <http://schema.org/location> "Motril"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/motril/> <http://schema.org/name> "Virgen de la Cabeza"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/quiros/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/quiros/> <http://schema.org/location> "QuirÃ³s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/quiros/> <http://schema.org/name> "Fiesta del Alba"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sanlucar-barrameda/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/sanlucar-barrameda/> <http://schema.org/location> "SanlÃºcar de Barrameda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sanlucar-barrameda/> <http://schema.org/name> "Nuestra SeÃ±ora de la Caridad"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valdes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valdes/> <http://schema.org/location> "ValdÃ©s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valdes/> <http://schema.org/name> "Nuestra SeÃ±ora del Rosario"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bergondo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bergondo/> <http://schema.org/location> "Bergondo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bergondo/> <http://schema.org/name> "San Roque"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/carasa/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/carasa/> <http://schema.org/location> "Carasa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/carasa/> <http://schema.org/name> "La Gata Negra"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/navia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/navia/> <http://schema.org/location> "Navia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/navia/> <http://schema.org/name> "San Roque"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/portugalete/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/portugalete/> <http://schema.org/location> "Portugalete"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/portugalete/> <http://schema.org/name> "San Roque"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almeria/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almeria/> <http://schema.org/location> "AlmerÃ­a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almeria/> <http://schema.org/name> "Feria de AlmerÃ­a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/malaga/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/malaga/> <http://schema.org/location> "MÃ¡laga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/malaga/> <http://schema.org/name> "Feria de MÃ¡laga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bilbao/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bilbao/> <http://schema.org/location> "Bilbao"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bilbao/> <http://schema.org/name> "Semana Grande"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/antequera/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/antequera/> <http://schema.org/location> "Antequera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/antequera/> <http://schema.org/name> "Real Feria de Agosto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/paterna/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/paterna/> <http://schema.org/location> "Paterna"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/paterna/> <http://schema.org/name> "Cristo de la Fe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/zalamea-la-serena/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/zalamea-la-serena/> <http://schema.org/location> "Zalamea de la Serena"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/zalamea-la-serena/> <http://schema.org/name> "El Alcalde de Zalamea"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcala-henares/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/alcala-henares/> <http://schema.org/location> "AlcalÃ¡ de Henares"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcala-henares/> <http://schema.org/name> "Fiestas de San BartolomÃ©"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arbos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/arbos/> <http://schema.org/location> "ArbÃ³s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arbos/> <http://schema.org/name> "Fiesta Mayor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/martos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/martos/> <http://schema.org/location> "Martos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/martos/> <http://schema.org/name> "Feria de San BartolomÃ©"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/onteniente/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/onteniente/> <http://schema.org/location> "Onteniente"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/onteniente/> <http://schema.org/name> "Fiestas de Moros y Cristianos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sitges/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/sitges/> <http://schema.org/location> "Sitges"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sitges/> <http://schema.org/name> "San BartolomÃ©"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villarramiel/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/villarramiel/> <http://schema.org/location> "Villarramiel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villarramiel/> <http://schema.org/name> "San BartolomÃ©"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cervera/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cervera/> <http://schema.org/location> "Cervera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cervera/> <http://schema.org/name> "Aquelarre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cuenca/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cuenca/> <http://schema.org/location> "Cuenca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cuenca/> <http://schema.org/name> "Feria y Fiestas de San JuliÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ribadavia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ribadavia/> <http://schema.org/location> "Ribadavia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ribadavia/> <http://schema.org/name> "Festa da Istoria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-sebastian-los-reyes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-sebastian-los-reyes/> <http://schema.org/location> "San SebastiÃ¡n de los Reyes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-sebastian-los-reyes/> <http://schema.org/name> "Cristo de los Remedios"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arrecife/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/arrecife/> <http://schema.org/location> "Arrecife"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/arrecife/> <http://schema.org/name> "San GinÃ©s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/astorga/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/astorga/> <http://schema.org/location> "Astorga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/astorga/> <http://schema.org/name> "Fiestas de Santa Marta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/laredo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/laredo/> <http://schema.org/location> "Laredo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/laredo/> <http://schema.org/name> "Batalla de Flores"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/palencia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/palencia/> <http://schema.org/location> "Palencia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/palencia/> <http://schema.org/name> "San AntolÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bunol/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bunol/> <http://schema.org/location> "BuÃ±ol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bunol/> <http://schema.org/name> "La Tomatina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarazona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tarazona/> <http://schema.org/location> "Tarazona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarazona/> <http://schema.org/name> "San Atilano-El Cipotegato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/linares/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/linares/> <http://schema.org/location> "Linares"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/linares/> <http://schema.org/name> "Feria de San AgustÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sepulveda/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/sepulveda/> <http://schema.org/location> "SepÃºlveda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sepulveda/> <http://schema.org/name> "Fiestas de Toros"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/toro/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/toro/> <http://schema.org/location> "Toro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/toro/> <http://schema.org/name> "San AgustÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bakio/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bakio/> <http://schema.org/location> "Bakio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bakio/> <http://schema.org/name> "San Juan Degollado"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-cristobal-laguna/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-cristobal-laguna/> <http://schema.org/location> "San CristÃ³bal de La Laguna"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-cristobal-laguna/> <http://schema.org/name> "Los Corazones de Tejina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/manresa/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/manresa/> <http://schema.org/location> "Manresa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/manresa/> <http://schema.org/name> "Fiesta Mayor de Manresa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/val-san-vicente/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/val-san-vicente/> <http://schema.org/location> "Val de San Vicente"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/val-san-vicente/> <http://schema.org/name> "Santos MÃ¡rtires"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cuellar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cuellar/> <http://schema.org/location> "CuÃ©llar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cuellar/> <http://schema.org/name> "Los Encierros de CuÃ©llar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almansa/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almansa/> <http://schema.org/location> "Almansa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almansa/> <http://schema.org/name> "Feria de Almansa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ferrol/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ferrol/> <http://schema.org/location> "Ferrol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ferrol/> <http://schema.org/name> "San RamÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/guadix/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/guadix/> <http://schema.org/location> "Guadix"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/guadix/> <http://schema.org/name> "Feria de Guadix"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/illescas/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/illescas/> <http://schema.org/location> "Illescas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/illescas/> <http://schema.org/name> "Feria y Fiestas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/los-corrales-buelna/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/los-corrales-buelna/> <http://schema.org/location> "Los Corrales de Buelna"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/los-corrales-buelna/> <http://schema.org/name> "Fiesta de las Guerras CÃ¡ntabras"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valmojado/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valmojado/> <http://schema.org/location> "Valmojado"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valmojado/> <http://schema.org/name> "Fiestas de La AlegrÃ­a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vilalba/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/vilalba/> <http://schema.org/location> "Vilalba"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vilalba/> <http://schema.org/name> "San RamÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/merida/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/merida/> <http://schema.org/location> "MÃ©rida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/merida/> <http://schema.org/name> "Feria de Septiembre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/montilla/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/montilla/> <http://schema.org/location> "Montilla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/montilla/> <http://schema.org/name> "Fiesta de la Vendimia Montilla-Moriles"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/requena/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/requena/> <http://schema.org/location> "Requena"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/requena/> <http://schema.org/name> "Fiesta de la Vendimia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/daimiel/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/daimiel/> <http://schema.org/location> "Daimiel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/daimiel/> <http://schema.org/name> "Virgen de las Cruces"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/enguera/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/enguera/> <http://schema.org/location> "Enguera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/enguera/> <http://schema.org/name> "San Gil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aranjuez/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/aranjuez/> <http://schema.org/location> "Aranjuez"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aranjuez/> <http://schema.org/name> "MotÃ­n de Aranjuez"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almachar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almachar/> <http://schema.org/location> "AlmÃ¡char"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almachar/> <http://schema.org/name> "Fiesta del Ajoblanco"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lekeitio/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lekeitio/> <http://schema.org/location> "Lekeitio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lekeitio/> <http://schema.org/name> "San AntolÃ­n %22Gansos%22"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/medina-del-campo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/medina-del-campo/> <http://schema.org/location> "Medina del Campo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/medina-del-campo/> <http://schema.org/name> "San AntolÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ronda/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ronda/> <http://schema.org/location> "Ronda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ronda/> <http://schema.org/name> "Feria y Fiestas de Pedro Romero"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almazan/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almazan/> <http://schema.org/location> "AlmazÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almazan/> <http://schema.org/name> "Bajada de JesÃºs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/carranque/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/carranque/> <http://schema.org/location> "Carranque"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/carranque/> <http://schema.org/name> "Cristo de la Fe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ponferrada/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ponferrada/> <http://schema.org/location> "Ponferrada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ponferrada/> <http://schema.org/name> "Fiestas de la Encina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ruente/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ruente/> <http://schema.org/location> "Ruente"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ruente/> <http://schema.org/name> "Fiesta del Cocido MontaÃ±Ã©s, Ucieda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sabadell/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/sabadell/> <http://schema.org/location> "Sabadell"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sabadell/> <http://schema.org/name> "Fiesta Mayor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santa-coloma-gramanet/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/santa-coloma-gramanet/> <http://schema.org/location> "Santa Coloma de Gramanet"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santa-coloma-gramanet/> <http://schema.org/name> "Fiesta Mayor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villena/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/villena/> <http://schema.org/location> "Villena"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villena/> <http://schema.org/name> "Virgen de las Virtudes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villanueva-del-ariscal/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/villanueva-del-ariscal/> <http://schema.org/location> "Villanueva del Ariscal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villanueva-del-ariscal/> <http://schema.org/name> "Feria de la Vendimia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bustares/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bustares/> <http://schema.org/location> "Bustares"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bustares/> <http://schema.org/name> "RomerÃ­a al Santo Alto Rey de la Majestad"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caudete/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/caudete/> <http://schema.org/location> "Caudete"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/caudete/> <http://schema.org/name> "Fiestas patronales de Moros y Cristianos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/albacete/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/albacete/> <http://schema.org/location> "Albacete"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/albacete/> <http://schema.org/name> "Feria de Albacete"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/salamanca/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/salamanca/> <http://schema.org/location> "Salamanca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/salamanca/> <http://schema.org/name> "Virgen de la Vega"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/algemesi/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/algemesi/> <http://schema.org/location> "AlgemesÃ­"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/algemesi/> <http://schema.org/name> "Mare de DÃ©u de la Salut"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/solsona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/solsona/> <http://schema.org/location> "Solsona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/solsona/> <http://schema.org/name> "Fiesta Mayor de Solsona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alajar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/alajar/> <http://schema.org/location> "AlÃ¡jar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alajar/> <http://schema.org/name> "RomerÃ­a Reina de los Ã�ngeles"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/guadalajara/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/guadalajara/> <http://schema.org/location> "Guadalajara"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/guadalajara/> <http://schema.org/name> "VÃ­rgen de la Antigua"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/huelva/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/huelva/> <http://schema.org/location> "Huelva"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/huelva/> <http://schema.org/name> "Nuestra SeÃ±ora de la Cinta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/segorbe/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/segorbe/> <http://schema.org/location> "Segorbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/segorbe/> <http://schema.org/name> "Fiestas Patronales"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sueca/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/sueca/> <http://schema.org/location> "Sueca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sueca/> <http://schema.org/name> "Virgen de Sales"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valladolid/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valladolid/> <http://schema.org/location> "Valladolid"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valladolid/> <http://schema.org/name> "Virgen de San Lorenzo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcorcon/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/alcorcon/> <http://schema.org/location> "AlcorcÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcorcon/> <http://schema.org/name> "Nuestra SeÃ±ora de los Remedios"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bejar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/bejar/> <http://schema.org/location> "BÃ©jar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/bejar/> <http://schema.org/name> "Virgen de El CastaÃ±ar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/betanzos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/betanzos/> <http://schema.org/location> "Betanzos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/betanzos/> <http://schema.org/name> "RomerÃ­a de los Remedios"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/calatayud/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/calatayud/> <http://schema.org/location> "Calatayud"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/calatayud/> <http://schema.org/name> "Virgen de la PeÃ±a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/humanes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/humanes/> <http://schema.org/location> "Humanes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/humanes/> <http://schema.org/name> "ProcesiÃ³n del Fuego"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/llanes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/llanes/> <http://schema.org/location> "Llanes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/llanes/> <http://schema.org/name> "Virgen de GuÃ­a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/molina-segura/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/molina-segura/> <http://schema.org/location> "Molina de Segura"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/molina-segura/> <http://schema.org/name> "Virgen de la ConsolaciÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mutxamel/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/mutxamel/> <http://schema.org/location> "Mutxamel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mutxamel/> <http://schema.org/name> "Virgen de Loreto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/olot/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/olot/> <http://schema.org/location> "Olot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/olot/> <http://schema.org/name> "Fiestas del Tura"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/parla/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/parla/> <http://schema.org/location> "Parla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/parla/> <http://schema.org/name> "Nuestra SeÃ±ora de La Soledad"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pielagos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/pielagos/> <http://schema.org/location> "PiÃ©lagos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pielagos/> <http://schema.org/name> "Virgen de Valencia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/rianjo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/rianjo/> <http://schema.org/location> "Rianxo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/rianjo/> <http://schema.org/name> "Festas da Guadalupe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/riaza/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/riaza/> <http://schema.org/location> "Riaza"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/riaza/> <http://schema.org/name> "RomerÃ­a de Hontanares"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/teror/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/teror/> <http://schema.org/location> "Teror"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/teror/> <http://schema.org/name> "Nuestra SeÃ±ora del Pino"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valdepenas/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valdepenas/> <http://schema.org/location> "ValdepeÃ±as"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valdepenas/> <http://schema.org/name> "Fiesta del Vino y la Vendimia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villafranca-los-barros/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/villafranca-los-barros/> <http://schema.org/location> "Villafranca de los Barros"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villafranca-los-barros/> <http://schema.org/name> "Nuestra SeÃ±ora de la Coronada y de la Vendimia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/guadix/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/guadix/> <http://schema.org/location> "Guadix"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/guadix/> <http://schema.org/name> "Cascamorras"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-cristobal-laguna/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-cristobal-laguna/> <http://schema.org/location> "San CristÃ³bal de La Laguna"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-cristobal-laguna/> <http://schema.org/name> "Fiestas del Cristo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/murcia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/murcia/> <http://schema.org/location> "Murcia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/murcia/> <http://schema.org/name> "Feria de Murcia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aranda-duero/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/aranda-duero/> <http://schema.org/location> "Aranda de Duero"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aranda-duero/> <http://schema.org/name> "Fiestas Patronales"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/graus/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/graus/> <http://schema.org/location> "Graus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/graus/> <http://schema.org/name> "Santo Cristo y San Vicente Ferrer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mostoles/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/mostoles/> <http://schema.org/location> "MÃ³stoles"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mostoles/> <http://schema.org/name> "Virgen de los Santos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/candas/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/candas/> <http://schema.org/location> "CandÃ¡s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/candas/> <http://schema.org/name> "SantÃ­simo Cristo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/coria-del-rio/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/coria-del-rio/> <http://schema.org/location> "Coria del RÃ­o"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/coria-del-rio/> <http://schema.org/name> "Feria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuenlabrada/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/fuenlabrada/> <http://schema.org/location> "Fuenlabrada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fuenlabrada/> <http://schema.org/name> "Fiestas de Fuenlabrada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/galdacano/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/galdacano/> <http://schema.org/location> "GaldÃ¡cano"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/galdacano/> <http://schema.org/name> "ExaltaciÃ³n de la Santa Cruz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/nava-la-asuncion/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/nava-la-asuncion/> <http://schema.org/location> "Nava de la AsunciÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/nava-la-asuncion/> <http://schema.org/name> "SantÃ­simo Cristo de la ExpiraciÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/novallas/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/novallas/> <http://schema.org/location> "Novallas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/novallas/> <http://schema.org/name> "Santa Cruz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/yecla/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/yecla/> <http://schema.org/location> "Yecla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/yecla/> <http://schema.org/name> "Feria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cartagena/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cartagena/> <http://schema.org/location> "Cartagena"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cartagena/> <http://schema.org/name> "Fiestas de Carthagineses y Romanos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cigales/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cigales/> <http://schema.org/location> "Cigales"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cigales/> <http://schema.org/name> "Feria y Fiesta de la Vendimia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pobra-do-caraminal/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/pobra-do-caraminal/> <http://schema.org/location> "A Pobra do CaramiÃ±al"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pobra-do-caraminal/> <http://schema.org/name> "Nazareno"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lorca/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lorca/> <http://schema.org/location> "Lorca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lorca/> <http://schema.org/name> "Feria y Fiestas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/logrono/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/logrono/> <http://schema.org/location> "LogroÃ±o"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/logrono/> <http://schema.org/name> "San Mateo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/oviedo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/oviedo/> <http://schema.org/location> "Oviedo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/oviedo/> <http://schema.org/name> "San Mateo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villamartin/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/villamartin/> <http://schema.org/location> "VillamartÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villamartin/> <http://schema.org/name> "Feria y Fiestas de San Mateo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cuenca/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cuenca/> <http://schema.org/location> "Cuenca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cuenca/> <http://schema.org/name> "San Mateo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/reinosa/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/reinosa/> <http://schema.org/location> "Reinosa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/reinosa/> <http://schema.org/name> "Feria de San Mateo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/talavera-la-reina/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/talavera-la-reina/> <http://schema.org/location> "Talavera de la Reina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/talavera-la-reina/> <http://schema.org/name> "Ferias de San Mateo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/azuqueca-henares/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/azuqueca-henares/> <http://schema.org/location> "Azuqueca de Henares"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/azuqueca-henares/> <http://schema.org/name> "Fiestas Mayores"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarragona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/tarragona/> <http://schema.org/location> "Tarragona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/tarragona/> <http://schema.org/name> "Santa Tecla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/barcelona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/barcelona/> <http://schema.org/location> "Barcelona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/barcelona/> <http://schema.org/name> "Fiestas de La Merced"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/chanteiro/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/chanteiro/> <http://schema.org/location> "Chanteiro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/chanteiro/> <http://schema.org/name> "Nosa SeÃ±ora da Mercede"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/reus/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/reus/> <http://schema.org/location> "Reus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/reus/> <http://schema.org/name> "Fiestas de la Misericordia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/insierto/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/insierto/> <http://schema.org/location> "Insierto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/insierto/> <http://schema.org/name> "Los MÃ¡rtires"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/reinosa/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/reinosa/> <http://schema.org/location> "Reinosa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/reinosa/> <http://schema.org/name> "DÃ­a de Campoo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ubeda/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ubeda/> <http://schema.org/location> "Ãšbeda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ubeda/> <http://schema.org/name> "Feria de San Miguel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/torremolinos/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/torremolinos/> <http://schema.org/location> "Torremolinos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/torremolinos/> <http://schema.org/name> "Feria de San Miguel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almenara/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/almenara/> <http://schema.org/location> "Almenara"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/almenara/> <http://schema.org/name> "Virgen del Buen Suceso"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lerida/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lerida/> <http://schema.org/location> "LÃ©rida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lerida/> <http://schema.org/name> "Fiestas de OtoÃ±o"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lituenigo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lituenigo/> <http://schema.org/location> "LituÃ©nigo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lituenigo/> <http://schema.org/name> "San Miguel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/olmedo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/olmedo/> <http://schema.org/location> "Olmedo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/olmedo/> <http://schema.org/name> "San Miguel y San JerÃ³nimo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/gandia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/gandia/> <http://schema.org/location> "GandÃ­a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/gandia/> <http://schema.org/name> "Feria y Fiestas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/hellin/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/hellin/> <http://schema.org/location> "HellÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/hellin/> <http://schema.org/name> "Feria de HellÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/soria/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/soria/> <http://schema.org/location> "Soria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/soria/> <http://schema.org/name> "San Saturio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/torrejon-ardoz/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/torrejon-ardoz/> <http://schema.org/location> "TorrejÃ³n de Ardoz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/torrejon-ardoz/> <http://schema.org/name> "Virgen del Rosario"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vall-uxo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/vall-uxo/> <http://schema.org/location> "Vall de UxÃ³"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/vall-uxo/> <http://schema.org/name> "Sagrada Familia y SantÃ­simo Cristo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lugo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/lugo/> <http://schema.org/location> "Lugo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/lugo/> <http://schema.org/name> "San FroilÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/leon/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/leon/> <http://schema.org/location> "LeÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/leon/> <http://schema.org/name> "San FroilÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/castril/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/castril/> <http://schema.org/location> "Castril"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/castril/> <http://schema.org/name> "Feria Grande"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valverde-la-virgen/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valverde-la-virgen/> <http://schema.org/location> "Valverde de la Virgen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valverde-la-virgen/> <http://schema.org/name> "San FroilÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aguimes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/aguimes/> <http://schema.org/location> "AgÃ¼imes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/aguimes/> <http://schema.org/name> "Nuestra SeÃ±ora del Rosario"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/coruna/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/coruna/> <http://schema.org/location> "A CoruÃ±a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/coruna/> <http://schema.org/name> "Nuestra SeÃ±ora del Rosario"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/gador/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/gador/> <http://schema.org/location> "GÃ¡dor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/gador/> <http://schema.org/name> "Virgen del Rosario"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/torre-pacheco/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/torre-pacheco/> <http://schema.org/location> "Torre-Pacheco"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/torre-pacheco/> <http://schema.org/name> "Fiestas de Octubre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/leganes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/leganes/> <http://schema.org/location> "LeganÃ©s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/leganes/> <http://schema.org/name> "San Nicasio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fraga/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/fraga/> <http://schema.org/location> "Fraga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/fraga/> <http://schema.org/name> "Fiestas del Pilar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/zaragoza/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/zaragoza/> <http://schema.org/location> "Zaragoza"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/zaragoza/> <http://schema.org/name> "El Pilar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/basauri/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/basauri/> <http://schema.org/location> "Basauri"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/basauri/> <http://schema.org/name> "San Fausto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/durango/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/durango/> <http://schema.org/location> "Durango"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/durango/> <http://schema.org/name> "San Fausto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alba-tormes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/alba-tormes/> <http://schema.org/location> "Alba de Tormes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alba-tormes/> <http://schema.org/name> "Santa Teresa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/avila/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/avila/> <http://schema.org/location> "Ã�vila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/avila/> <http://schema.org/name> "Fiestas de Santa Teresa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jaen/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/jaen/> <http://schema.org/location> "JaÃ©n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jaen/> <http://schema.org/name> "Feria de San Lucas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mondonedo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/mondonedo/> <http://schema.org/location> "MondoÃ±edo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/mondonedo/> <http://schema.org/name> "Feiras e Festas de As San Lucas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-pedro-alcantara/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-pedro-alcantara/> <http://schema.org/location> "San Pedro AlcÃ¡ntara"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-pedro-alcantara/> <http://schema.org/name> "Feria y Fiestas San Pedro AlcÃ¡ntara"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/benamocarra/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/benamocarra/> <http://schema.org/location> "Benamocarra"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/benamocarra/> <http://schema.org/name> "Fiesta del Cristo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/consuegra/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/consuegra/> <http://schema.org/location> "Consuegra"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/consuegra/> <http://schema.org/name> "Fiesta de la Rosa del AzafrÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/gerona/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/gerona/> <http://schema.org/location> "Gerona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/gerona/> <http://schema.org/name> "San Narciso"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/guernica-y-luno/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/guernica-y-luno/> <http://schema.org/location> "Guernica y Luno"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/guernica-y-luno/> <http://schema.org/name> "Ãšltimo Lunes de Octubre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/albunol/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/albunol/> <http://schema.org/location> "AlbuÃ±ol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/albunol/> <http://schema.org/name> "Feria de Ganado"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cocentaina/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cocentaina/> <http://schema.org/location> "Cocentaina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cocentaina/> <http://schema.org/name> "Feria de Todos los Santos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/moreda/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/moreda/> <http://schema.org/location> "Moreda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/moreda/> <http://schema.org/name> "Los Humanitarios de San MartÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/potes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/potes/> <http://schema.org/location> "Potes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/potes/> <http://schema.org/name> "Fiesta del Orujo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cuevas-del-almanzora/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/cuevas-del-almanzora/> <http://schema.org/location> "Cuevas del Almanzora"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/cuevas-del-almanzora/> <http://schema.org/name> "San Diego de AlcalÃ¡"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/inca/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/inca/> <http://schema.org/location> "Inca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/inca/> <http://schema.org/name> "Dijous Bo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/telde/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/telde/> <http://schema.org/location> "Telde"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/telde/> <http://schema.org/name> "Fiestas de San Gregorio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sada/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/sada/> <http://schema.org/location> "Sada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/sada/> <http://schema.org/name> "San AndrÃ©s, Carnoedo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/castro-urdiales/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/castro-urdiales/> <http://schema.org/location> "Castro-Urdiales"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/castro-urdiales/> <http://schema.org/name> "San AndrÃ©s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/nava-del-rey/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/nava-del-rey/> <http://schema.org/location> "Nava del Rey"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/nava-del-rey/> <http://schema.org/name> "Los Pegotes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-baudilio-llobregat/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-baudilio-llobregat/> <http://schema.org/location> "San Baudilio de Llobregat"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-baudilio-llobregat/> <http://schema.org/name> "Feria de la PurÃ­sima"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jarandilla-la-vera/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/jarandilla-la-vera/> <http://schema.org/location> "Jarandilla de la Vera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jarandilla-la-vera/> <http://schema.org/name> "Los Escobazos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/horcajo-santiago/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/horcajo-santiago/> <http://schema.org/location> "Horcajo de Santiago"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/horcajo-santiago/> <http://schema.org/name> "El VÃ­tor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/torrevieja/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/torrevieja/> <http://schema.org/location> "Torrevieja"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/torrevieja/> <http://schema.org/name> "Inmaculada ConcepciÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/colmenar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/colmenar/> <http://schema.org/location> "Colmenar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/colmenar/> <http://schema.org/name> "Fiesta del Mosto y la Chacina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pontevedra/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/pontevedra/> <http://schema.org/location> "Pontevedra"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pontevedra/> <http://schema.org/name> "Virxe da O"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-sebastian/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-sebastian/> <http://schema.org/location> "San SebastiÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-sebastian/> <http://schema.org/name> "Feria de Santo TomÃ¡s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcazar-san-juan/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/alcazar-san-juan/> <http://schema.org/location> "AlcÃ¡zar de San Juan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcazar-san-juan/> <http://schema.org/name> "CarnavAlcÃ¡zar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/echevarri/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/echevarri/> <http://schema.org/location> "EchÃ©varri"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/echevarri/> <http://schema.org/name> "San Esteban"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/elche/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/elche/> <http://schema.org/location> "Elche"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/elche/> <http://schema.org/name> "Fiestas de la Venida de la Virgen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ibi/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ibi/> <http://schema.org/location> "Ibi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ibi/> <http://schema.org/name> "Fiestas de Invierno"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jalance/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/jalance/> <http://schema.org/location> "Jalance"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/jalance/> <http://schema.org/name> "Los Locos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/palencia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/palencia/> <http://schema.org/location> "Palencia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/palencia/> <http://schema.org/name> "Bautizo del NiÃ±o"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/silio/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/silio/> <http://schema.org/location> "SiliÃ³"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/silio/> <http://schema.org/name> "La Vijanera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcoy/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/alcoy/> <http://schema.org/location> "Alcoy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/alcoy/> <http://schema.org/name> "Cabalgata de Reyes de Alcoy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valverde-jucar/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/valverde-jucar/> <http://schema.org/location> "Valverde de JÃºcar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/valverde-jucar/> <http://schema.org/name> "Moros y Cristianos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/canada/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/canada/> <http://schema.org/location> "CaÃ±ada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/canada/> <http://schema.org/name> "Auto Sacramental de los Reyes Magos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ferrol/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/ferrol/> <http://schema.org/location> "Ferrol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/ferrol/> <http://schema.org/name> "Festas de San JuliÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/canals/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/canals/> <http://schema.org/location> "Canals"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/canals/> <http://schema.org/name> "Sant Antoni Abad"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/navalvillar-pela/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/navalvillar-pela/> <http://schema.org/location> "Navalvillar de Pela"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/navalvillar-pela/> <http://schema.org/name> "La EncamisÃ¡"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/benicasim/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/benicasim/> <http://schema.org/location> "Benicasim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/benicasim/> <http://schema.org/name> "San Antonio Abad"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santa-eugenia-berga/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/santa-eugenia-berga/> <http://schema.org/location> "Santa Eugenia de Berga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/santa-eugenia-berga/> <http://schema.org/name> "San AntÃ³n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/palma/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/palma/> <http://schema.org/location> "Palma"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/palma/> <http://schema.org/name> "San SebastiÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-sebastian/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-sebastian/> <http://schema.org/location> "San SebastiÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-sebastian/> <http://schema.org/name> "Tamborrada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/acehuche/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/acehuche/> <http://schema.org/location> "AcehÃºche"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/acehuche/> <http://schema.org/name> "Las CarantoÃ±as"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/huelva/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/huelva/> <http://schema.org/location> "Huelva"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/huelva/> <http://schema.org/name> "San SebastiÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pontevedra/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/pontevedra/> <http://schema.org/location> "Pontevedra"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/pontevedra/> <http://schema.org/name> "San SebastiÃ¡n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/puente-viesgo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/puente-viesgo/> <http://schema.org/location> "Puente Viesgo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/puente-viesgo/> <http://schema.org/name> "La Perola de Vargas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/huesca/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/huesca/> <http://schema.org/location> "Huesca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/huesca/> <http://schema.org/name> "San Vicente"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villarta-san-juan/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/villarta-san-juan/> <http://schema.org/location> "Villarta de San Juan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/villarta-san-juan/> <http://schema.org/name> "Las Paces"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-pablo-los-montes/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/san-pablo-los-montes/> <http://schema.org/location> "San Pablo de los Montes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/san-pablo-los-montes/> <http://schema.org/name> "Fiesta de la Vaca"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/barranda/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/barranda/> <http://schema.org/location> "Barranda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/barranda/> <http://schema.org/name> "Fiesta de las Cuadrillas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/zaragoza/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Festival> .
+<https://fiestas.net/zaragoza/> <http://schema.org/location> "Zaragoza"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://fiestas.net/zaragoza/> <http://schema.org/name> "San Valero"^^<http://www.w3.org/2001/XMLSchema#string> .
