@@ -8,6 +8,7 @@
     @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
     @prefix schema: <http://schema.org/> .
     @base <http://mappingpedia.linkeddata.es/resource/> .
+	
     <ZEERUI27KO>
         rr:logicalTable [
             rr:tableName  "\"madrid1\""
@@ -15,7 +16,7 @@
 
         rr:subjectMap [
             a rr:Subject; rr:termType rr:IRI; rr:class schema:Festival;
-            rr:column "\"IDENTIFICADORLINK\"";
+            rr:template "http://fiestas.linkeddata.es/es/{\"WIKIDATAID\"}";
         ];
         
         rr:predicateObjectMap [
@@ -23,7 +24,11 @@
           rr:objectMap    [ rr:termType rr:Literal; rr:column "\"NAME\""; ];
         ];
     
-
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:location ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"LOCATION\""; ];
+        ];
+		
         rr:predicateObjectMap [
           rr:predicateMap [ rr:constant schema:image ];
           rr:objectMap    [ rr:termType rr:Literal; rr:column "\"IMAGE\""; ];
