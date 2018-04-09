@@ -18,7 +18,7 @@
 
         rr:subjectMap [
             a rr:Subject; rr:termType rr:IRI; rr:class schema:Festival;
-            rr:template "http://fiestas.linkeddata.es/festival/es/{\"PROVINCE\"}/{\"TOWN\"}/{\"FESTIVAL\"}";
+            rr:template "http://fiestas.linkeddata.es/festival/es/{\"TOWN\"}/{\"FESTIVAL\"}";
         ];
         
         rr:predicateObjectMap [
