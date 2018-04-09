@@ -1,0 +1,43 @@
+SELECT ?fiesta ?fiestaLabel ?locationLabel WHERE {
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es,en,ca,[AUTO_LANGUAGE]". }
+  { ?fiesta wdt:P31 wd:Q150139. }
+  UNION
+  { ?fiesta wdt:P31 wd:Q3323691. }
+  UNION
+  { ?fiesta wdt:P31 wd:Q64161. }
+  UNION {
+    ?fiesta wdt:P31 wd:Q23726521 . 
+  } UNION {
+    ?fiesta wdt:P31 wd:Q23681146 .
+  } UNION {
+    ?fiesta wdt:P31 wd:Q23657059 .
+  } UNION {
+    ?fiesta wdt:P31 wd:Q23657241 .
+  } UNION {
+    ?fiesta wdt:P31 wd:Q23657135 .
+  } UNION {
+    ?fiesta wdt:P31 wd:Q23681152 .
+  } UNION {
+    ?fiesta wdt:P31 wd:Q23661987 . 
+  } UNION {
+    ?fiesta wdt:P31 wd:Q12388486 .
+  } UNION {
+    ?fiesta wdt:P31 wd:Q23727520 . 
+  } UNION {
+    ?fiesta wdt:P31 wd:Q23727539 .
+  } UNION {
+     ?fiesta wdt:P31 wd:Q23660852 . 
+  } UNION {
+    ?fiesta wdt:P31 wd:Q132241;
+        wdt:P31 wd:Q29 . 
+  } UNION {
+    ?fiesta wdt:P31 wd:Q200538;
+        wdt:P31 wd:Q29 . 
+  } UNION {
+    ?fiesta wdt:P31 wd:Q82821;
+        wdt:P31 wd:Q29 . 
+  }
+  OPTIONAL {
+    ?fiesta wdt:P276 ?location .
+  }  
+}
