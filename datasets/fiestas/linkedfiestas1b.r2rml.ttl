@@ -7,7 +7,10 @@
     @prefix mpv: <http://mappingpedia.linkeddata.es/vocab/> .
     @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
     @prefix schema: <http://schema.org/> .
+	@prefix prov: <http://www.w3.org/ns/prov#> .
+	
     @base <http://mappingpedia.linkeddata.es/resource/> .
+	
     <6JAAPDPLW6>
         rr:logicalTable [
             rr:tableName  "\"linkedfiestas1\""
@@ -29,5 +32,15 @@
           rr:objectMap    [ rr:termType rr:Literal; rr:column "\"TOWN\""; ];
         ];
     
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant prov:wasDerivedFrom ];
+          rr:objectMap    [ rr:termType rr:IRI; rr:constant "https://fiestas.net/"; ];
+        ];
+		
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant prov:wasAttributedTo ];
+          rr:objectMap    [ rr:termType rr:IRI; rr:constant "https://fiestas.net/"; ];
+        ];
+		
     .
     
