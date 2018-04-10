@@ -7,7 +7,11 @@
     @prefix mpv: <http://mappingpedia.linkeddata.es/vocab/> .
     @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
     @prefix schema: <http://schema.org/> .
+    @prefix prov: <http://www.w3.org/ns/prov#> .
+    @prefix dbo: <http://dbpedia.org/ontology/> .
+    
     @base <http://mappingpedia.linkeddata.es/resource/> .
+    
     <2FOJ2PQCE4>
         rr:logicalTable [
             rr:tableName  "\"spain-national1\""
@@ -15,7 +19,7 @@
 
         rr:subjectMap [
             a rr:Subject; rr:termType rr:IRI; rr:class schema:Festival;
-            rr:template "http://fiestas.linkeddata.es/es/{\"WIKIDATAID\"}";
+            rr:template "https://w3id.org/linkedfiestas/resource/wd-{\"WIKIDATAID\"}";
         ];
         
         rr:predicateObjectMap [
@@ -28,6 +32,37 @@
           rr:predicateMap [ rr:constant schema:location ];
           rr:objectMap    [ rr:termType rr:Literal; rr:column "\"LOCATION\""; ];
         ];
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant prov:wasDerivedFrom ];
+          rr:objectMap    [ rr:termType rr:IRI; rr:constant "https://www.wikipedia.org/"; ];
+        ];
+		
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant prov:wasAttributedTo ];
+          rr:objectMap    [ rr:termType rr:IRI; rr:constant "https://www.wikipedia.org/"; ];
+        ];
+        
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant dct:subject ];
+          rr:objectMap    [ rr:termType rr:IRI; ; rr:constant "http://dbpedia.org/resource/Category:Festivals_in_Spain"; ];
+        ];
     
+        
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant dct:subject ];
+          rr:objectMap    [ rr:termType rr:IRI; ; rr:constant "http://es.dbpedia.org/resource/Categor%C3%ADa:Fiestas_de_inter%C3%A9s_tur%C3%ADstico_nacional_(Espa%C3%B1a)"; ];
+        ];
+    
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant dbo:latitude ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"LATITUDE\""; ];
+        ];
+        
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant dbo:longitute ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"LONGITUDE\""; ];
+        ];
+        
     .
     
