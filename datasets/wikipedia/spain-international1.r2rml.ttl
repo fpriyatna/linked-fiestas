@@ -19,7 +19,7 @@
 
         rr:subjectMap [
             a rr:Subject; rr:termType rr:IRI; rr:class schema:Festival;
-            rr:template "http://fiestas.linkeddata.es/es/{\"WIKIDATAID\"}";
+            rr:template "https://w3id.org/linkedfiestas/resource/wd-{\"WIKIDATAID\"}";
         ];
         
         rr:predicateObjectMap [
