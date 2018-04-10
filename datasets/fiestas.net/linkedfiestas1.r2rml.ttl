@@ -27,7 +27,11 @@
           rr:objectMap    [ rr:termType rr:Literal; rr:column "\"FESTIVAL\""; ];
         ];
     
-
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:location];
+          rr:objectMap    [ rr:termType rr:Literal; rr:template "{\"TOWN\"}, {\"PROVINCE\"}"; ];
+        ];
+        
         rr:predicateObjectMap [
           rr:predicateMap [ rr:constant dbo:city ];
           rr:objectMap    [ rr:termType rr:Literal; rr:column "\"TOWN\""; ];

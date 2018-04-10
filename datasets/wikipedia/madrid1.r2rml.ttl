@@ -58,6 +58,15 @@
           rr:objectMap    [ rr:termType rr:Literal; rr:column "\"LONGITUDE\""; ];
         ];
 		
-		        
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant dbo:city ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"LOCATION\""; ];
+        ];
+    
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant dbo:province ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:constant "Madrid"; ];
+        ];
+
     .
     
