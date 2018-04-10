@@ -19,7 +19,7 @@
 
         rr:subjectMap [
             a rr:Subject; rr:termType rr:IRI; rr:class schema:Festival;
-            rr:template "https://w3id.org/linkedfiestas/resource/fn-{\"ID\"}";
+            rr:template "https://w3id.org/linked-fiestas/resource/fn-{\"ID\"}";
         ];
         
         rr:predicateObjectMap [
