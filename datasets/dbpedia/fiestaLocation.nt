@@ -1,0 +1,344 @@
+<http://es.dbpedia.org/resource/Vía_de_la_Plata_Festival> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Vía_de_la_Plata_Festival> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Vía_de_la_Plata_Festival> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Mérida_(España)> . 
+<http://es.dbpedia.org/resource/Vía_de_la_Plata_Festival> <http://schema.org/location> "Mérida (España)" . 
+<http://es.dbpedia.org/resource/Resurrection_Fest> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Resurrection_Fest> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Resurrection_Fest> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Provincia_de_Lugo> . 
+<http://es.dbpedia.org/resource/Resurrection_Fest> <http://schema.org/location> "Provincia de Lugo" . 
+<http://es.dbpedia.org/resource/Resurrection_Fest> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Vivero> . 
+<http://es.dbpedia.org/resource/Resurrection_Fest> <http://schema.org/location> "Vivero" . 
+<http://es.dbpedia.org/resource/Romería_del_Pino> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Canarias> . 
+<http://es.dbpedia.org/resource/Romería_del_Pino> <http://schema.org/location> "Canarias" . 
+<http://es.dbpedia.org/resource/Romería_del_Pino> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Romería_del_Pino> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Romería_del_Pino> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Teror> . 
+<http://es.dbpedia.org/resource/Romería_del_Pino> <http://schema.org/location> "Teror" . 
+<http://es.dbpedia.org/resource/Toro_ensogado_de_Beas_de_Segura> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Andalucía> . 
+<http://es.dbpedia.org/resource/Toro_ensogado_de_Beas_de_Segura> <http://schema.org/location> "Andalucía" . 
+<http://es.dbpedia.org/resource/Toro_ensogado_de_Beas_de_Segura> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Provincia_de_Jaén_(España)> . 
+<http://es.dbpedia.org/resource/Toro_ensogado_de_Beas_de_Segura> <http://schema.org/location> "Provincia de Jaén (España)" . 
+<http://es.dbpedia.org/resource/Toro_ensogado_de_Beas_de_Segura> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Beas_de_Segura> . 
+<http://es.dbpedia.org/resource/Toro_ensogado_de_Beas_de_Segura> <http://schema.org/location> "Beas de Segura" . 
+<http://es.dbpedia.org/resource/Festival_Intercéltico_de_Avilés> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Avilés> . 
+<http://es.dbpedia.org/resource/Festival_Intercéltico_de_Avilés> <http://schema.org/location> "Avilés" . 
+<http://es.dbpedia.org/resource/Festival_Intercéltico_de_Avilés> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Festival_Intercéltico_de_Avilés> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Aquasella> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Asturias> . 
+<http://es.dbpedia.org/resource/Aquasella> <http://schema.org/location> "Asturias" . 
+<http://es.dbpedia.org/resource/Aquasella> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Arriondas> . 
+<http://es.dbpedia.org/resource/Aquasella> <http://schema.org/location> "Arriondas" . 
+<http://es.dbpedia.org/resource/Aquasella> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Principado_de_Asturias> . 
+<http://es.dbpedia.org/resource/Aquasella> <http://schema.org/location> "Principado de Asturias" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Cartagena> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Cartagena> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Cartagena> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Región_de_Murcia> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Cartagena> <http://schema.org/location> "Región de Murcia" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Cartagena> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Cartagena_(España)> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Cartagena> <http://schema.org/location> "Cartagena (España)" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Ferrol> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/El_Ferrol> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Ferrol> <http://schema.org/location> "El Ferrol" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Ferrol> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Ferrol> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Ferrol> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Ferrol> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Ferrol> <http://schema.org/location> "Ferrol" . 
+<http://es.dbpedia.org/resource/Carnaval_de_Jerez> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Carnaval_de_Jerez> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Carnaval_de_Jerez> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Jerez_de_la_Frontera> . 
+<http://es.dbpedia.org/resource/Carnaval_de_Jerez> <http://schema.org/location> "Jerez de la Frontera" . 
+<http://es.dbpedia.org/resource/Actual_(festival)> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Actual_(festival)> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Actual_(festival)> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/La_Rioja_(España)> . 
+<http://es.dbpedia.org/resource/Actual_(festival)> <http://schema.org/location> "La Rioja (España)" . 
+<http://es.dbpedia.org/resource/Actual_(festival)> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Logroño> . 
+<http://es.dbpedia.org/resource/Actual_(festival)> <http://schema.org/location> "Logroño" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Mérida> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Mérida> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Mérida> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Extremadura> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Mérida> <http://schema.org/location> "Extremadura" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Mérida> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Mérida_(España)> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Mérida> <http://schema.org/location> "Mérida (España)" . 
+<http://es.dbpedia.org/resource/Festival_SOS_4.8> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Festival_SOS_4.8> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Festival_SOS_4.8> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Murcia> . 
+<http://es.dbpedia.org/resource/Festival_SOS_4.8> <http://schema.org/location> "Murcia" . 
+<http://es.dbpedia.org/resource/Festival_SOS_4.8> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Región_de_Murcia> . 
+<http://es.dbpedia.org/resource/Festival_SOS_4.8> <http://schema.org/location> "Región de Murcia" . 
+<http://es.dbpedia.org/resource/Carnaval_de_Vinaroz> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Carnaval_de_Vinaroz> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Carnaval_de_Vinaroz> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Vinaroz> . 
+<http://es.dbpedia.org/resource/Carnaval_de_Vinaroz> <http://schema.org/location> "Vinaroz" . 
+<http://es.dbpedia.org/resource/Carnaval_de_Santa_Cruz_de_Tenerife> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Carnaval_de_Santa_Cruz_de_Tenerife> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Carnaval_de_Santa_Cruz_de_Tenerife> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Santa_Cruz_de_Tenerife> . 
+<http://es.dbpedia.org/resource/Carnaval_de_Santa_Cruz_de_Tenerife> <http://schema.org/location> "Santa Cruz de Tenerife" . 
+<http://es.dbpedia.org/resource/Starlite_Festival> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Marbella> . 
+<http://es.dbpedia.org/resource/Starlite_Festival> <http://schema.org/location> "Marbella" . 
+<http://es.dbpedia.org/resource/Starlite_Festival> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Starlite_Festival> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Starlite_Festival> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Provincia_de_Málaga> . 
+<http://es.dbpedia.org/resource/Starlite_Festival> <http://schema.org/location> "Provincia de Málaga" . 
+<http://es.dbpedia.org/resource/Festival_del_Cante_de_las_Minas> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Festival_del_Cante_de_las_Minas> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Festival_del_Cante_de_las_Minas> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/La_Unión_(España)> . 
+<http://es.dbpedia.org/resource/Festival_del_Cante_de_las_Minas> <http://schema.org/location> "La Unión (España)" . 
+<http://es.dbpedia.org/resource/Extremúsika> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Cáceres> . 
+<http://es.dbpedia.org/resource/Extremúsika> <http://schema.org/location> "Cáceres" . 
+<http://es.dbpedia.org/resource/Extremúsika> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Mérida_(España)> . 
+<http://es.dbpedia.org/resource/Extremúsika> <http://schema.org/location> "Mérida (España)" . 
+<http://es.dbpedia.org/resource/Nubarock> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Nuevo_Baztán> . 
+<http://es.dbpedia.org/resource/Nubarock> <http://schema.org/location> "Nuevo Baztán" . 
+<http://es.dbpedia.org/resource/Festival_de_Flamenco_de_Jerez> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Festival_de_Flamenco_de_Jerez> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Festival_de_Flamenco_de_Jerez> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Jerez_de_la_Frontera> . 
+<http://es.dbpedia.org/resource/Festival_de_Flamenco_de_Jerez> <http://schema.org/location> "Jerez de la Frontera" . 
+<http://es.dbpedia.org/resource/Festival_Cultura_Inquieta> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Festival_Cultura_Inquieta> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Festival_Cultura_Inquieta> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Getafe> . 
+<http://es.dbpedia.org/resource/Festival_Cultura_Inquieta> <http://schema.org/location> "Getafe" . 
+<http://es.dbpedia.org/resource/Festival_Cultura_Urbana> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Festival_Cultura_Urbana> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Festival_Cultura_Urbana> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Madrid> . 
+<http://es.dbpedia.org/resource/Festival_Cultura_Urbana> <http://schema.org/location> "Madrid" . 
+<http://es.dbpedia.org/resource/Tenorio_Mendocino> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Guadalajara_(España)> . 
+<http://es.dbpedia.org/resource/Tenorio_Mendocino> <http://schema.org/location> "Guadalajara (España)" . 
+<http://es.dbpedia.org/resource/Los_Negritos_de_San_Blas> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Los_Negritos_de_San_Blas> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Los_Negritos_de_San_Blas> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Extremadura> . 
+<http://es.dbpedia.org/resource/Los_Negritos_de_San_Blas> <http://schema.org/location> "Extremadura" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Antequera> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Andalucía> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Antequera> <http://schema.org/location> "Andalucía" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Antequera> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Antequera> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Antequera> <http://schema.org/location> "Antequera" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Antequera> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Antequera> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Antequera> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Málaga> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Antequera> <http://schema.org/location> "Málaga" . 
+<http://es.dbpedia.org/resource/Rebujas_Rock> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/San_Mateo_(Cantabria)> . 
+<http://es.dbpedia.org/resource/Rebujas_Rock> <http://schema.org/location> "San Mateo (Cantabria)" . 
+<http://es.dbpedia.org/resource/Donostikluba> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Donostikluba> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Donostikluba> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Guipúzcoa> . 
+<http://es.dbpedia.org/resource/Donostikluba> <http://schema.org/location> "Guipúzcoa" . 
+<http://es.dbpedia.org/resource/Donostikluba> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/San_Sebastián> . 
+<http://es.dbpedia.org/resource/Donostikluba> <http://schema.org/location> "San Sebastián" . 
+<http://es.dbpedia.org/resource/Summercase> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Summercase> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Summercase> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Madrid> . 
+<http://es.dbpedia.org/resource/Summercase> <http://schema.org/location> "Madrid" . 
+<http://es.dbpedia.org/resource/Festival_Pirineos_Sur> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Lanuza> . 
+<http://es.dbpedia.org/resource/Festival_Pirineos_Sur> <http://schema.org/location> "Lanuza" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Granada> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Andalucía> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Granada> <http://schema.org/location> "Andalucía" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Granada> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Granada> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Granada> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Granada> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Granada> <http://schema.org/location> "Granada" . 
+<http://es.dbpedia.org/resource/Festival_Medieval_de_Hita> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Hita> . 
+<http://es.dbpedia.org/resource/Festival_Medieval_de_Hita> <http://schema.org/location> "Hita" . 
+<http://es.dbpedia.org/resource/Festival_Medieval_de_Hita> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Festival_Medieval_de_Hita> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Fiestas_Lustrales_en_honor_al_Cristo_de_la_Misericordia> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Fiestas_Lustrales_en_honor_al_Cristo_de_la_Misericordia> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Fiestas_Lustrales_en_honor_al_Cristo_de_la_Misericordia> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Garachico> . 
+<http://es.dbpedia.org/resource/Fiestas_Lustrales_en_honor_al_Cristo_de_la_Misericordia> <http://schema.org/location> "Garachico" . 
+<http://es.dbpedia.org/resource/Fiestas_de_la_Magdalena_(Castellón_de_la_Plana)> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Castellón_de_la_Plana> . 
+<http://es.dbpedia.org/resource/Fiestas_de_la_Magdalena_(Castellón_de_la_Plana)> <http://schema.org/location> "Castellón de la Plana" . 
+<http://es.dbpedia.org/resource/Carnaval_del_Toro> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Ciudad_Rodrigo> . 
+<http://es.dbpedia.org/resource/Carnaval_del_Toro> <http://schema.org/location> "Ciudad Rodrigo" . 
+<http://es.dbpedia.org/resource/Festival_de_Jazz_de_Cartagena> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Cartagena_(España)> . 
+<http://es.dbpedia.org/resource/Festival_de_Jazz_de_Cartagena> <http://schema.org/location> "Cartagena (España)" . 
+<http://es.dbpedia.org/resource/Aguaviva_Canarias> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Arona> . 
+<http://es.dbpedia.org/resource/Aguaviva_Canarias> <http://schema.org/location> "Arona" . 
+<http://es.dbpedia.org/resource/Aguaviva_Canarias> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Aguaviva_Canarias> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Aguaviva_Canarias> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Provincia_de_Santa_Cruz_de_Tenerife> . 
+<http://es.dbpedia.org/resource/Aguaviva_Canarias> <http://schema.org/location> "Provincia de Santa Cruz de Tenerife" . 
+<http://es.dbpedia.org/resource/WOMAD> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Cáceres> . 
+<http://es.dbpedia.org/resource/WOMAD> <http://schema.org/location> "Cáceres" . 
+<http://es.dbpedia.org/resource/WOMAD> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Austria> . 
+<http://es.dbpedia.org/resource/WOMAD> <http://schema.org/location> "Austria" . 
+<http://es.dbpedia.org/resource/WOMAD> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Canadá> . 
+<http://es.dbpedia.org/resource/WOMAD> <http://schema.org/location> "Canadá" . 
+<http://es.dbpedia.org/resource/WOMAD> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/WOMAD> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/WOMAD> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Estonia> . 
+<http://es.dbpedia.org/resource/WOMAD> <http://schema.org/location> "Estonia" . 
+<http://es.dbpedia.org/resource/WOMAD> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Francia> . 
+<http://es.dbpedia.org/resource/WOMAD> <http://schema.org/location> "Francia" . 
+<http://es.dbpedia.org/resource/WOMAD> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Italia> . 
+<http://es.dbpedia.org/resource/WOMAD> <http://schema.org/location> "Italia" . 
+<http://es.dbpedia.org/resource/WOMAD> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Las_Palmas_de_Gran_Canaria> . 
+<http://es.dbpedia.org/resource/WOMAD> <http://schema.org/location> "Las Palmas de Gran Canaria" . 
+<http://es.dbpedia.org/resource/WOMAD> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Nueva_Zelanda> . 
+<http://es.dbpedia.org/resource/WOMAD> <http://schema.org/location> "Nueva Zelanda" . 
+<http://es.dbpedia.org/resource/WOMAD> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Turquía> . 
+<http://es.dbpedia.org/resource/WOMAD> <http://schema.org/location> "Turquía" . 
+<http://es.dbpedia.org/resource/WOMAD> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Australia> . 
+<http://es.dbpedia.org/resource/WOMAD> <http://schema.org/location> "Australia" . 
+<http://es.dbpedia.org/resource/WOMAD> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Estados_Unidos> . 
+<http://es.dbpedia.org/resource/WOMAD> <http://schema.org/location> "Estados Unidos" . 
+<http://es.dbpedia.org/resource/WOMAD> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Finlandia> . 
+<http://es.dbpedia.org/resource/WOMAD> <http://schema.org/location> "Finlandia" . 
+<http://es.dbpedia.org/resource/Contempopránea> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Badajoz> . 
+<http://es.dbpedia.org/resource/Contempopránea> <http://schema.org/location> "Badajoz" . 
+<http://es.dbpedia.org/resource/Contempopránea> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Contempopránea> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Contempopránea> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Alburquerque> . 
+<http://es.dbpedia.org/resource/Contempopránea> <http://schema.org/location> "Alburquerque" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Vivero> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Vivero> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Vivero> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Vivero> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Vivero> <http://schema.org/location> "Vivero" . 
+<http://es.dbpedia.org/resource/Demandafolk> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Sierra_de_la_Demanda> . 
+<http://es.dbpedia.org/resource/Demandafolk> <http://schema.org/location> "Sierra de la Demanda" . 
+<http://es.dbpedia.org/resource/Demandafolk> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Tolbaños_de_Arriba> . 
+<http://es.dbpedia.org/resource/Demandafolk> <http://schema.org/location> "Tolbaños de Arriba" . 
+<http://es.dbpedia.org/resource/Demandafolk> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Burgos> . 
+<http://es.dbpedia.org/resource/Demandafolk> <http://schema.org/location> "Burgos" . 
+<http://es.dbpedia.org/resource/Fiesta_de_Las_Marías> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Santa_María_de_Guía> . 
+<http://es.dbpedia.org/resource/Fiesta_de_Las_Marías> <http://schema.org/location> "Santa María de Guía" . 
+<http://es.dbpedia.org/resource/Fiesta_de_Las_Marías> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Canarias> . 
+<http://es.dbpedia.org/resource/Fiesta_de_Las_Marías> <http://schema.org/location> "Canarias" . 
+<http://es.dbpedia.org/resource/Fiesta_de_Las_Marías> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Fiesta_de_Las_Marías> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Fiesta_de_Las_Marías> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Santa_María_de_Guía_de_Gran_Canaria> . 
+<http://es.dbpedia.org/resource/Fiesta_de_Las_Marías> <http://schema.org/location> "Santa María de Guía de Gran Canaria" . 
+<http://es.dbpedia.org/resource/Peregrinación_a_Candelaria> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Canarias> . 
+<http://es.dbpedia.org/resource/Peregrinación_a_Candelaria> <http://schema.org/location> "Canarias" . 
+<http://es.dbpedia.org/resource/Peregrinación_a_Candelaria> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Peregrinación_a_Candelaria> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Peregrinación_a_Candelaria> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Tenerife> . 
+<http://es.dbpedia.org/resource/Peregrinación_a_Candelaria> <http://schema.org/location> "Tenerife" . 
+<http://es.dbpedia.org/resource/Festival_de_Bandas_%22Maestro_José_Guillén%22> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Colmenar_Viejo> . 
+<http://es.dbpedia.org/resource/Festival_de_Bandas_%22Maestro_José_Guillén%22> <http://schema.org/location> "Colmenar Viejo" . 
+<http://es.dbpedia.org/resource/Carthagineses_y_Romanos> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Cartagena_(España)> . 
+<http://es.dbpedia.org/resource/Carthagineses_y_Romanos> <http://schema.org/location> "Cartagena (España)" . 
+<http://es.dbpedia.org/resource/Festival_Internacional_de_Benicasim> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Comunidad_Valenciana> . 
+<http://es.dbpedia.org/resource/Festival_Internacional_de_Benicasim> <http://schema.org/location> "Comunidad Valenciana" . 
+<http://es.dbpedia.org/resource/Festival_Internacional_de_Benicasim> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Festival_Internacional_de_Benicasim> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Festival_Internacional_de_Benicasim> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Provincia_de_Castellón> . 
+<http://es.dbpedia.org/resource/Festival_Internacional_de_Benicasim> <http://schema.org/location> "Provincia de Castellón" . 
+<http://es.dbpedia.org/resource/Festival_Internacional_de_Benicasim> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Benicasim> . 
+<http://es.dbpedia.org/resource/Festival_Internacional_de_Benicasim> <http://schema.org/location> "Benicasim" . 
+<http://es.dbpedia.org/resource/Festival_Internacional_de_Benicasim> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Benicàssim> . 
+<http://es.dbpedia.org/resource/Festival_Internacional_de_Benicasim> <http://schema.org/location> "Benicàssim" . 
+<http://es.dbpedia.org/resource/Romería_de_San_Benito_Abad> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Canarias> . 
+<http://es.dbpedia.org/resource/Romería_de_San_Benito_Abad> <http://schema.org/location> "Canarias" . 
+<http://es.dbpedia.org/resource/Romería_de_San_Benito_Abad> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Romería_de_San_Benito_Abad> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Romería_de_San_Benito_Abad> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/San_Cristóbal_de_La_Laguna> . 
+<http://es.dbpedia.org/resource/Romería_de_San_Benito_Abad> <http://schema.org/location> "San Cristóbal de La Laguna" . 
+<http://es.dbpedia.org/resource/Maratón_de_los_Cuentos> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Guadalajara_(España)> . 
+<http://es.dbpedia.org/resource/Maratón_de_los_Cuentos> <http://schema.org/location> "Guadalajara (España)" . 
+<http://es.dbpedia.org/resource/Maratón_de_los_Cuentos> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Palacio_del_Infantado> . 
+<http://es.dbpedia.org/resource/Maratón_de_los_Cuentos> <http://schema.org/location> "Palacio del Infantado" . 
+<http://es.dbpedia.org/resource/Carnaval_de_Astorga> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Astorga> . 
+<http://es.dbpedia.org/resource/Carnaval_de_Astorga> <http://schema.org/location> "Astorga" . 
+<http://es.dbpedia.org/resource/Carnaval_de_Astorga> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Carnaval_de_Astorga> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Carnaval_de_Astorga> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Provincia_de_León> . 
+<http://es.dbpedia.org/resource/Carnaval_de_Astorga> <http://schema.org/location> "Provincia de León" . 
+<http://es.dbpedia.org/resource/Rototom_Sunsplash> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Rototom_Sunsplash> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Rototom_Sunsplash> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Benicasim> . 
+<http://es.dbpedia.org/resource/Rototom_Sunsplash> <http://schema.org/location> "Benicasim" . 
+<http://es.dbpedia.org/resource/Rototom_Sunsplash> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Castellón_de_la_Plana> . 
+<http://es.dbpedia.org/resource/Rototom_Sunsplash> <http://schema.org/location> "Castellón de la Plana" . 
+<http://es.dbpedia.org/resource/Rototom_Sunsplash> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Benicàssim> . 
+<http://es.dbpedia.org/resource/Rototom_Sunsplash> <http://schema.org/location> "Benicàssim" . 
+<http://es.dbpedia.org/resource/Rototom_Sunsplash> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Castellón> . 
+<http://es.dbpedia.org/resource/Rototom_Sunsplash> <http://schema.org/location> "Castellón" . 
+<http://es.dbpedia.org/resource/Semana_Santa_de_Jaén> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Andalucía> . 
+<http://es.dbpedia.org/resource/Semana_Santa_de_Jaén> <http://schema.org/location> "Andalucía" . 
+<http://es.dbpedia.org/resource/Semana_Santa_de_Jaén> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Semana_Santa_de_Jaén> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Semana_Santa_de_Jaén> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Jaén> . 
+<http://es.dbpedia.org/resource/Semana_Santa_de_Jaén> <http://schema.org/location> "Jaén" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Málaga> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Andalucía> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Málaga> <http://schema.org/location> "Andalucía" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Málaga> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Málaga> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Málaga> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Málaga> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Málaga> <http://schema.org/location> "Málaga" . 
+<http://es.dbpedia.org/resource/Carnaval_de_Cádiz> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Carnaval_de_Cádiz> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Carnaval_de_Cádiz> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Cádiz> . 
+<http://es.dbpedia.org/resource/Carnaval_de_Cádiz> <http://schema.org/location> "Cádiz" . 
+<http://es.dbpedia.org/resource/Feria_de_San_Lucas_(Jaén)> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Feria_de_San_Lucas_(Jaén)> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Feria_de_San_Lucas_(Jaén)> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Jaén> . 
+<http://es.dbpedia.org/resource/Feria_de_San_Lucas_(Jaén)> <http://schema.org/location> "Jaén" . 
+<http://es.dbpedia.org/resource/Festival_de_Música_Antigua_'Villa_de_Calasparra'> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Festival_de_Música_Antigua_'Villa_de_Calasparra'> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Festival_de_Música_Antigua_'Villa_de_Calasparra'> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Calasparra> . 
+<http://es.dbpedia.org/resource/Festival_de_Música_Antigua_'Villa_de_Calasparra'> <http://schema.org/location> "Calasparra" . 
+<http://es.dbpedia.org/resource/Fallas_de_Valencia> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Valencia> . 
+<http://es.dbpedia.org/resource/Fallas_de_Valencia> <http://schema.org/location> "Valencia" . 
+<http://es.dbpedia.org/resource/La_Mar_de_Músicas_de_Cartagena> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Cartagena_(España)> . 
+<http://es.dbpedia.org/resource/La_Mar_de_Músicas_de_Cartagena> <http://schema.org/location> "Cartagena (España)" . 
+<http://es.dbpedia.org/resource/Ebrovisión> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Ebrovisión> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Ebrovisión> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Miranda_de_Ebro> . 
+<http://es.dbpedia.org/resource/Ebrovisión> <http://schema.org/location> "Miranda de Ebro" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Olvera> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Andalucía> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Olvera> <http://schema.org/location> "Andalucía" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Olvera> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Olvera> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Olvera> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Olvera> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Olvera> <http://schema.org/location> "Olvera" . 
+<http://es.dbpedia.org/resource/Monegros_Desert_Festival> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Provincia_de_Huesca> . 
+<http://es.dbpedia.org/resource/Monegros_Desert_Festival> <http://schema.org/location> "Provincia de Huesca" . 
+<http://es.dbpedia.org/resource/Monegros_Desert_Festival> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Los_Monegros> . 
+<http://es.dbpedia.org/resource/Monegros_Desert_Festival> <http://schema.org/location> "Los Monegros" . 
+<http://es.dbpedia.org/resource/Monegros_Desert_Festival> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Monegros> . 
+<http://es.dbpedia.org/resource/Monegros_Desert_Festival> <http://schema.org/location> "Monegros" . 
+<http://es.dbpedia.org/resource/Festival_En_Vivo> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Bilbao> . 
+<http://es.dbpedia.org/resource/Festival_En_Vivo> <http://schema.org/location> "Bilbao" . 
+<http://es.dbpedia.org/resource/Festival_En_Vivo> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Getafe> . 
+<http://es.dbpedia.org/resource/Festival_En_Vivo> <http://schema.org/location> "Getafe" . 
+<http://es.dbpedia.org/resource/Festival_En_Vivo> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Rivas-Vaciamadrid> . 
+<http://es.dbpedia.org/resource/Festival_En_Vivo> <http://schema.org/location> "Rivas-Vaciamadrid" . 
+<http://es.dbpedia.org/resource/Feria_de_Albacete> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Albacete> . 
+<http://es.dbpedia.org/resource/Feria_de_Albacete> <http://schema.org/location> "Albacete" . 
+<http://es.dbpedia.org/resource/Fiestas_del_Pilar> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Zaragoza> . 
+<http://es.dbpedia.org/resource/Fiestas_del_Pilar> <http://schema.org/location> "Zaragoza" . 
+<http://es.dbpedia.org/resource/Festival_Nacional_de_la_Jota> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Festival_Nacional_de_la_Jota> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Festival_Nacional_de_la_Jota> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Cuéllar> . 
+<http://es.dbpedia.org/resource/Festival_Nacional_de_la_Jota> <http://schema.org/location> "Cuéllar" . 
+<http://es.dbpedia.org/resource/Romería_del_Socorro> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Canarias> . 
+<http://es.dbpedia.org/resource/Romería_del_Socorro> <http://schema.org/location> "Canarias" . 
+<http://es.dbpedia.org/resource/Romería_del_Socorro> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Romería_del_Socorro> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Romería_del_Socorro> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Güímar> . 
+<http://es.dbpedia.org/resource/Romería_del_Socorro> <http://schema.org/location> "Güímar" . 
+<http://es.dbpedia.org/resource/Festival_Internacional_de_Jazz_de_San_Javier> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/San_Javier_(España)> . 
+<http://es.dbpedia.org/resource/Festival_Internacional_de_Jazz_de_San_Javier> <http://schema.org/location> "San Javier (España)" . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Orihuela> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Orihuela> . 
+<http://es.dbpedia.org/resource/Semana_Santa_en_Orihuela> <http://schema.org/location> "Orihuela" . 
+<http://es.dbpedia.org/resource/Arenal_Sound_Festival> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Arenal_Sound_Festival> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Arenal_Sound_Festival> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Provincia_de_Castellón> . 
+<http://es.dbpedia.org/resource/Arenal_Sound_Festival> <http://schema.org/location> "Provincia de Castellón" . 
+<http://es.dbpedia.org/resource/Arenal_Sound_Festival> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Burriana> . 
+<http://es.dbpedia.org/resource/Arenal_Sound_Festival> <http://schema.org/location> "Burriana" . 
+<http://es.dbpedia.org/resource/Electrosonic_Festival> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Electrosonic_Festival> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Electrosonic_Festival> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Burgos> . 
+<http://es.dbpedia.org/resource/Electrosonic_Festival> <http://schema.org/location> "Burgos" . 
+<http://es.dbpedia.org/resource/Festival_de_Ortigueira> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Festival_de_Ortigueira> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Festival_de_Ortigueira> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Ortigueira> . 
+<http://es.dbpedia.org/resource/Festival_de_Ortigueira> <http://schema.org/location> "Ortigueira" . 
+<http://es.dbpedia.org/resource/Semana_Grande_de_Bilbao> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Bilbao> . 
+<http://es.dbpedia.org/resource/Semana_Grande_de_Bilbao> <http://schema.org/location> "Bilbao" . 
+<http://es.dbpedia.org/resource/Semana_Grande_de_Bilbao> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Vizcaya> . 
+<http://es.dbpedia.org/resource/Semana_Grande_de_Bilbao> <http://schema.org/location> "Vizcaya" . 
+<http://es.dbpedia.org/resource/Carnaval_de_Isla_Cristina> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Isla_Cristina> . 
+<http://es.dbpedia.org/resource/Carnaval_de_Isla_Cristina> <http://schema.org/location> "Isla Cristina" . 
+<http://es.dbpedia.org/resource/Feria_del_Caballo> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/España> . 
+<http://es.dbpedia.org/resource/Feria_del_Caballo> <http://schema.org/location> "España" . 
+<http://es.dbpedia.org/resource/Feria_del_Caballo> <http://dbpedia.org/ontology/location> <http://es.dbpedia.org/resource/Jerez_de_la_Frontera> . 
+<http://es.dbpedia.org/resource/Feria_del_Caballo> <http://schema.org/location> "Jerez de la Frontera" . 
