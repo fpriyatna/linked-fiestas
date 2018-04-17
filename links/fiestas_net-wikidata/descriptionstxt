@@ -1,5 +1,0 @@
-Fiestas from fiestas.net linked with wikidata.
-
-Methodology: First we linked all the resources from both datasets that have the same city. We applied a levenshtein to check whether the citiy attributes were exactly the same. Then we compared the names of the fiesta attribute of each city with a qgrams similarity and manually checked which were describing the same fiesta. Finally, since not all cities from fiestas.net were linked to wikidata we also check those non linked; we found out that some were wrote in another language like Galician, thus we took these places and manually linked their fiestas.
-
-Tools: TEIDE -> https://github.com/AndreaCimminoArriaga/Teide
