@@ -1,0 +1,8 @@
+<https://w3id.org/linked-fiestas/resource/fn-202>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Festival> .
+<https://w3id.org/linked-fiestas/resource/fn-202>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Festivals_in_Spain> .
+<https://w3id.org/linked-fiestas/resource/fn-202>	<http://dbpedia.org/ontology/city>	"Marbella"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-202>	<http://schema.org/location>	"Marbella, Málaga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-202>	<http://schema.org/name>	"Feria y Fiestas San Bernabé"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-202>	<http://dbpedia.org/ontology/province>	"Málaga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-202>	<http://www.w3.org/ns/prov#wasAttributedTo>	<https://fiestas.net/> .
+<https://w3id.org/linked-fiestas/resource/fn-202>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<https://fiestas.net/> .

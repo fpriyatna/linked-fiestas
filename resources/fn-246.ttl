@@ -1,0 +1,7 @@
+<https://w3id.org/linked-fiestas/resource/fn-246>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Festival> .
+<https://w3id.org/linked-fiestas/resource/fn-246>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Festivals_in_Spain> .
+<https://w3id.org/linked-fiestas/resource/fn-246>	<http://dbpedia.org/ontology/city>	"Teruel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-246>	<http://schema.org/location>	"Teruel, null"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-246>	<http://schema.org/name>	"Fiestas del Ángel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-246>	<http://www.w3.org/ns/prov#wasAttributedTo>	<https://fiestas.net/> .
+<https://w3id.org/linked-fiestas/resource/fn-246>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<https://fiestas.net/> .

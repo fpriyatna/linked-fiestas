@@ -1,0 +1,7 @@
+<https://w3id.org/linked-fiestas/resource/fn-186>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Festival> .
+<https://w3id.org/linked-fiestas/resource/fn-186>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Festivals_in_Spain> .
+<https://w3id.org/linked-fiestas/resource/fn-186>	<http://dbpedia.org/ontology/city>	"Palencia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-186>	<http://schema.org/location>	"Palencia, null"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-186>	<http://schema.org/name>	"Feria Chica"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-186>	<http://www.w3.org/ns/prov#wasAttributedTo>	<https://fiestas.net/> .
+<https://w3id.org/linked-fiestas/resource/fn-186>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<https://fiestas.net/> .

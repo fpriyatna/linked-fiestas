@@ -1,0 +1,7 @@
+<https://w3id.org/linked-fiestas/resource/fn-198>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Festival> .
+<https://w3id.org/linked-fiestas/resource/fn-198>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Festivals_in_Spain> .
+<https://w3id.org/linked-fiestas/resource/fn-198>	<http://dbpedia.org/ontology/city>	"Burgos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-198>	<http://schema.org/location>	"Burgos, null"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-198>	<http://schema.org/name>	"Fiesta del Curpillos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-198>	<http://www.w3.org/ns/prov#wasAttributedTo>	<https://fiestas.net/> .
+<https://w3id.org/linked-fiestas/resource/fn-198>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<https://fiestas.net/> .

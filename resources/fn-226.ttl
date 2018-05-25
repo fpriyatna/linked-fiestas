@@ -1,0 +1,8 @@
+<https://w3id.org/linked-fiestas/resource/fn-226>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Festival> .
+<https://w3id.org/linked-fiestas/resource/fn-226>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Festivals_in_Spain> .
+<https://w3id.org/linked-fiestas/resource/fn-226>	<http://dbpedia.org/ontology/city>	"Caspe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-226>	<http://schema.org/location>	"Caspe, Zaragoza"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-226>	<http://schema.org/name>	"Compromiso de Caspe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-226>	<http://dbpedia.org/ontology/province>	"Zaragoza"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-226>	<http://www.w3.org/ns/prov#wasAttributedTo>	<https://fiestas.net/> .
+<https://w3id.org/linked-fiestas/resource/fn-226>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<https://fiestas.net/> .
