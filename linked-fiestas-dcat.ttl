@@ -1,0 +1,21 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/>
+
+_:linked-fiesta a dcat:Dataset ;
+    dcat:distribution _:linked-fiesta-dist;
+    dct:title "Linked Fiestas Dataset" ;
+    dcat:keyword "festival","travel","tourism", "spain" ;
+    dct:issued "2018--04-15"^^xsd:date ;
+    dct:modified "2018-05-28"^^xsd:date ;
+    dct:spatial <http://www.geonames.org/2510769/> ;
+    dct:publisher <http://www.oeg-upm.net> ;
+    dct:language <http://id.loc.gov/vocabulary/iso639-1/en>  ;
+    dcat:contactPoint <mailto:cimmino@fi.upm.es>;
+    dcat:landingPage <http://tourismkg.linkeddata.es/> .
+
+_:linked-fiesta-dist a dcat:Distribution ;
+   dct:title "Linked Fiesta Dataset Download" ;
+   dcat:accessURL <http://tourismkg.linkeddata.es/data/linked-fiesta-dataset.tar.gz>;
+   dcat:format [ rdfs:label "turtle" ];
+   dcat:mediaType "application/gzip" ;
+   dcat:byteSize "89091"^^xsd:decimal .
