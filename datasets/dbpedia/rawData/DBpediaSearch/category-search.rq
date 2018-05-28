@@ -1,0 +1,7 @@
+#http://es.dbpedia.org/resource/Categoría:Fiestas_de_
+# iterate the query with all the municipalities and provices of spain 
+#http://es.dbpedia.org/resource/Categoría:Fiestas_de_la_provincia_de_
+#iterate the query with all the provices of spain
+select ?s where { 
+     ?s <http://purl.org/dc/terms/subject> ?province . 
+}
